@@ -1,0 +1,4237 @@
+Agelena barunae Tikader, 1970
+Agelena gautami Tikader, 1962
+Agelena inda Simon, 1897
+Agelena oaklandensis Barman, 1979
+Agelena satmila Tikader, 1970
+Agelena shillongensis Tikader, 1969
+Tamgrinia alveolifera (Schenkel, 1936)
+Tegenaria comstocki Gajbe, 2004
+Tegenaria hemanginiae Reddy & Patel, 1992
+Tegenaria shillongensis Barman, 1979
+Amaurobius jugorum L. Koch, 1868
+Anyphaena soricina Simon, 1889
+Acusilas coccineus Simon, 1895
+Anepsion maritatum (O. Pickard-Cambridge, 1877)
+Arachnura angura Tikader, 1970
+Arachnura melanura Simon, 1867
+Araneus anantnagensis Tikader & Bal, 1981
+Araneus bastarensis Gajbe, 2005
+Araneus bilunifer Pocock, 1900
+Araneus boerneri (Strand, 1907)
+Araneus camilla (Simon, 1889)
+Araneus decentellus (Strand, 1907)
+Araneus ellipticus (Tikader & Bal, 1981)
+Neoscona enucleata (Karsch, 1879)
+Araneus fulvellus (Roewer, 1942)
+Araneus himalayanus (Simon, 1889)
+Araneus hirsutulus (Stoliczka, 1869)
+Araneus liber (Leardi, 1902)
+Araneus minutalis (Simon, 1889)
+Araneus mitificus (Simon, 1886)
+Araniella nympha (Simon, 1889)
+Araneus pahalgaonensis Tikader & Bal, 1981
+Araneus panchganiensis Tikader & Bal, 1981
+Araneus sponsus (Thorell, 1887)
+Araneus tubabdominus Zhu & Zhang, 1993
+Araneus viridisomus Gravely, 1921
+Argiope aemula (Walckenaer, 1841)
+Argiope anasuja Thorell, 1887
+Argiope caesarea Thorell, 1897
+Argiope catenulata (Doleschall, 1859)
+Argiope lobata (Pallas, 1772)
+Argiope macrochoera Thorell, 1891
+Argiope pulchella Thorell, 1881
+Caerostris sumatrana Strand, 1915
+Cercidia punctigera Simon, 1889
+Chorizopes anjanes Tikader, 1965
+Chorizopes calciope (Simon, 1895)
+Chorizopes congener O. Pickard-Cambridge, 1885
+Chorizopes frontalis O. Pickard-Cambridge, 1871
+Chorizopes kastoni Gajbe & Gajbe, 2004
+Chorizopes khandaricus Gajbe, 2005
+Chorizopes khanjanes Tikader, 1965
+Chorizopes khedaensis Reddy & Patel, 1993
+Chorizopes pateli Reddy & Patel, 1993
+Chorizopes stoliczkae O. Pickard-Cambridge, 1885
+Chorizopes tikaderi Sadana & Kaur, 1974
+Cyclosa albisternis Simon, 1888
+Cyclosa bifida (Doleschall, 1859)
+Cyclosa bilobata Sen, Saha & Raychaudhuri, 2012
+Cyclosa centrodes (Thorell, 1887)
+Cyclosa confraga (Thorell, 1892)
+Cyclosa gossypiata Keswani, 2013
+Cyclosa hexatuberculata Tikader, 1982
+Cyclosa insulana (Costa, 1834)
+Cyclosa krusa Barrion & Litsinger, 1995
+Cyclosa micula (Thorell, 1892)
+Cyclosa moonduensis Tikader, 1963
+Cyclosa neilensis Tikader, 1977
+Cyclosa oatesi (Thorell, 1892)
+Cyclosa purnai Keswani, 2013
+Cyclosa quinqueguttata (Thorell, 1881)
+Cyclosa simoni Tikader, 1982
+Cyclosa spirifera Simon, 1889
+Cyclosa tuberascens Simon, 1906
+Cyrtarachne avimerdaria Tikader, 1963
+Cyrtarachne bengalensis Tikader, 1961
+Cyrtarachne biswamoyi Tikader, 1961
+Paraplectana gravelyi (Tikader, 1961)
+Cyrtarachne inaequalis Thorell, 1895
+Cyrtarachne invenusta Thorell, 1891
+Cyrtarachne nagasakiensis Strand, 1918
+Cyrtarachne promilai Tikader, 1963
+Cyrtarachne raniceps Pocock, 1900
+Cyrtarachne schmidi Tikader, 1963
+Cyrtarachne sundari Tikader, 1963
+Cyrtophora bidenta Tikader, 1970
+Cyrtophora citricola (Forsskål, 1775)
+Cyrtophora feae (Thorell, 1887)
+Cyrtophora jabalpurensis Gajbe & Gajbe, 1999
+Cyrtophora ksudra Sherriffs, 1928
+Cyrtophora moluccensis (Doleschall, 1857)
+Cyrtophora unicolor (Doleschall, 1857)
+Eriovixia excelsa (Simon, 1889)
+Eriovixia laglaizei (Simon, 1877)
+Eriovixia palawanensis (Barrion & Litsinger, 1995)
+Eriovixia patulisus (Barrion & Litsinger, 1995)
+Eriovixia poonaensis (Tikader & Bal, 1981)
+Eriovixia sakiedaorum Tanikawa, 1999
+Gasteracantha dalyi Pocock, 1900
+Gasteracantha diadesmia Thorell, 1887
+Gasteracantha diardi (Lucas, 1835)
+Gasteracantha frontata Blackwall, 1864
+Gasteracantha geminata (Fabricius, 1798)
+Macracantha hasselti (C. L. Koch, 1837)
+Gasteracantha kuhli C. L. Koch, 1837
+Gasteracantha remifera Butler, 1873
+Gasteracantha sororna Butler, 1873
+Gasteracantha taeniata (Walckenaer, 1841)
+Gasteracantha unguifera Simon, 1889
+Gea spinipes C. L. Koch, 1843
+Gea subarmata Thorell, 1890
+Gea zaragosa Barrion & Litsinger, 1995
+Gibbaranea bituberculata (Walckenaer, 1802)
+Larinia bharatae Bhandari & Gajbe, 2001
+Larinia chloris (Audouin, 1826)
+Larinia emertoni Gajbe & Gajbe, 2004
+Larinia jaysankari Biswas, 1984
+Larinia kanpurae Patel & Nigam, 1994
+Larinia mandlaensis Gajbe, 2005
+Larinia phthisica (L. Koch, 1871)
+Larinia teiraensis Biswas & Biswas, 2007
+Larinia tyloridia Patel, 1975
+Lipocrea epeiroides (O. Pickard-Cambridge, 1872)
+Lipocrea fusiformis (Thorell, 1877)
+Macracantha arcuata (Fabricius, 1793)
+Neogea nocticolor (Thorell, 1887)
+Neoscona achine (Simon, 1906)
+Neoscona bengalensis Tikader & Bal, 1981
+Neoscona bihumpi Patel, 1988
+Neoscona biswasi Bhandari & Gajbe, 2001
+Neoscona bomdilaensis Biswas & Biswas, 2006
+Neoscona chrysanthusi Tikader & Bal, 1981
+Neoscona dhruvai Patel & Nigam, 1994
+Neoscona dhumani Patel & Reddy, 1993
+Neoscona dyali Gajbe, 2004
+Neoscona molemensis Tikader & Bal, 1981
+Neoscona mukerjei Tikader, 1980
+Neoscona murthyi Patel & Reddy, 1990
+Neoscona odites (Simon, 1906)
+Neoscona parambikulamensis Patel, 2003
+Neoscona pavida (Simon, 1906)
+Neoscona platnicki Gajbe & Gajbe, 2001
+Neoscona punctigera (Doleschall, 1857)
+Neoscona raydakensis Saha, Biswas, Majumder & Raychaudhuri, 1995
+Neoscona sanghi Gajbe, 2004
+Neoscona sanjivani Gajbe, 2004
+Neoscona shillongensis Tikader & Bal, 1981
+Neoscona sinhagadensis (Tikader, 1975)
+Neoscona theisi (Walckenaer, 1841)
+Neoscona ujavalai Reddy & Patel, 1992
+Neoscona usbonga Barrion & Litsinger, 1995
+Neoscona yptinika Barrion & Litsinger, 1995
+Ordgarius hexaspinus Saha & Raychaudhuri, 2004
+Ordgarius hobsoni (O. Pickard-Cambridge, 1877)
+Ordgarius sexspinosus (Thorell, 1894)
+Parawixia dehaani (Doleschall, 1859)
+Pasilobus kotigeharus Tikader, 1963
+Plebs himalayaensis (Tikader, 1975)
+Plebs mitratus (Simon, 1895)
+Poltys bhabanii (Tikader, 1970)
+Poltys bhavnagarensis Patel, 1988
+Poltys columnaris Thorell, 1890
+Poltys godrejii Bastawade & Khandal, 2006
+Poltys nagpurensis Tikader, 1982
+Poltys pogonias Thorell, 1891
+Poltys rehmanii Bastawade & Khandal, 2006
+Porcataraneus bengalensis (Tikader, 1975)
+Prasonica insolens (Simon, 1909)
+Singa chota Tikader, 1970
+Singa haddooensis Tikader, 1977
+Singa myrrhea (Simon, 1895)
+Zilla globosa Saha & Raychaudhuri, 2004
+Atypus sutherlandi Chennappaiya, 1935
+Diplothele gravelyi Siliwal, Molur & Raven, 2009
+Diplothele tenebrosus Siliwal, Molur & Raven, 2009
+Diplothele walshi O. Pickard-Cambridge, 1891
+Sason andamanicum (Simon, 1888)
+Sason rameshwaram Siliwal & Molur, 2009
+Sason robustum (O. Pickard-Cambridge, 1883)
+Sasonichus sullivani Pocock, 1900
+Sipalolasma arthrapophysis (Gravely, 1915)
+Tigidia nilgiriensis Sanap, Mirza & Siliwal, 2011
+Tigidia rutilofronis Sanap, Mirza & Siliwal, 2011
+Tigidia sahyadri Siliwal, Gupta & Raven, 2011
+Cithaeron indicus Platnick & Gajbe, 1994
+Cithaeron praedonius O. Pickard-Cambridge, 1872
+Inthaeron rossi Platnick, 1991
+Clubiona acanthocnemis Simon, 1906
+Clubiona analis Thorell, 1895
+Clubiona bengalensis Biswas, 1984
+Clubiona boxaensis Biswas & Biswas, 1992
+Clubiona chakrabartei Majumder & Tikader, 1991
+Clubiona deletrix O. Pickard-Cambridge, 1885
+Clubiona drassodes O. Pickard-Cambridge, 1874
+Clubiona filicata O. Pickard-Cambridge, 1874
+Clubiona hysgina Simon, 1889
+Clubiona ludhianaensis Tikader, 1976
+Clubiona nicobarensis Tikader, 1977
+Clubiona nilgherina Simon, 1906
+Clubiona pogonias Simon, 1906
+Clubiona rama Dankittipakul & Singtripop, 2008
+Clubiona shillongensis Majumder & Tikader, 1991
+Clubiona submaculata (Thorell, 1891)
+Clubiona tikaderi Majumder & Tikader, 1991
+Matidia incurvata Reimoser, 1934
+Simalio aurobindoi Patel & Reddy, 1991
+Simalio biswasi Majumder & Tikader, 1991
+Simalio castaneiceps Simon, 1906
+Simalio percomis Simon, 1906
+Aetius decollatus O. Pickard-Cambridge, 1897
+Apochinomma dolosum Simon, 1897
+Apochinomma nitidum (Thorell, 1895)
+Oedignatha adhartali (Gajbe, 2003)
+Cambalida flavipes (Gravely, 1931)
+Oedignatha indica (Tikader, 1981)
+Castianeira quadrimaculata Reimoser, 1934
+Castianeira tinae Patel & Patel, 1973
+Castianeira zetes Simon, 1897
+Coenoptychus pulcher Simon, 1885
+Corinnomma comulatum Thorell, 1891
+Corinnomma rufofuscum Reimoser, 1934
+Corinnomma severum (Thorell, 1877)
+Echinax panache Deeleman-Reinhold, 2001
+Oedignatha albofasciata Strand, 1907
+Oedignatha andamanensis (Tikader, 1977)
+Oedignatha binoyii Reddy & Patel, 1993
+Oedignatha carli Reimoser, 1934
+Oedignatha dentifera Reimoser, 1934
+Oedignatha escheri Reimoser, 1934
+Oedignatha indica Reddy & Patel, 1993
+Oedignatha lesserti Reimoser, 1934
+Oedignatha microscutata Reimoser, 1934
+Oedignatha poonaensis Majumder & Tikader, 1991
+Oedignatha procerula Simon, 1897
+Oedignatha raigadensis Bastawade, 2006
+Oedignatha scrobiculata Thorell, 1881
+Oedignatha shillongensis Biswas & Majumder, 1995
+Oedignatha tricuspidata Reimoser, 1934
+Oedignatha uncata Reimoser, 1934
+Orthobula impressa Simon, 1897
+Trachelas costatus O. Pickard-Cambridge, 1885
+Trachelas himalayensis Biswas, 1993
+Trachelas oreophilus Simon, 1906
+Utivarachna fronto (Simon, 1906)
+Acantheis indicus Gravely, 1931
+Amauropelma beyersdorfi Jäger, 2012
+Amauropelma ekeftys Jäger, 2012
+Amauropelma staschi Jäger, 2012
+Anahita smythiesi (Simon, 1897)
+Ctenus andamanensis Gravely, 1931
+Ctenus bomdilaensis Tikader & Malhotra, 1981
+Ctenus cochinensis Gravely, 1931
+Ctenus dangsus Reddy & Patel, 1994
+Ctenus goaensis Bastawade & Borkar, 2008
+Ctenus himalayensis Gravely, 1931
+Ctenus indicus Gravely, 1931
+Ctenus kapuri Tikader, 1973
+Ctenus meghalayaensis Tikader, 1976
+Ctenus narashinhai Patel & Reddy, 1988
+Ctenus sikkimensis Gravely, 1931
+Ctenus tuniensis Patel & Reddy, 1988
+Conothele vali Siliwal, Nair, Molur & Raven, 2009
+Conothele varvarti Siliwal, Nair, Molur & Raven, 2009
+Latouchia cryptica (Simon, 1897)
+Asianopis goalparaensis (Tikader & Malhotra, 1978)
+Asianopis liukuensis (Yin, Griswold & Yan, 2002)
+Desis gardineri Pocock, 1904
+Desis inermis Gravely, 1927
+Ajmonia velifera (Simon, 1906)
+Anaxibia rebai (Tikader, 1966)
+Nigma albida (O. Pickard-Cambridge, 1885)
+Dictyna turbida Simon, 1905
+Dictyna umai Tikader, 1966
+Ajmonia bedeshai (Tikader, 1966)
+Ajmonia marakata (Sherriffs, 1927)
+Himalmartensus mussooriensis (Biswas & Roy, 2008)
+Nigma shiprai (Tikader, 1966)
+Sudesna grossa (Simon, 1906)
+Indothele dumicola (Pocock, 1900)
+Indothele mala Coyle, 1995
+Indothele rothi Coyle, 1995
+Ischnothele indicola Tikader, 1969
+Stegodyphus hisarensis Arora & Monga, 1992
+Stegodyphus mirandus Pocock, 1899
+Stegodyphus pacificus Pocock, 1900
+Stegodyphus sarasinorum Karsch, 1892
+Stegodyphus tibialis (O. Pickard-Cambridge, 1869)
+Pholcoides chiardolae (Caporiacco, 1934)
+Pritha napadensis (Patel, 1975)
+Zaitunia rufa (Caporiacco, 1934)
+Pholcoides seclusa (O. Pickard-Cambridge, 1885)
+Pritha dharmakumarsinhjii Patel, 1978
+Pritha insularis (Thorell, 1891)
+Pritha nana (Simon, 1868)
+Pritha nicobarensis (Tikader, 1977)
+Pritha poonaensis (Tikader, 1963)
+Sahastata ashapuriae Patel, 1978
+Coillina yogeshi (Gajbe, 1993)
+Callilepis chakanensis Tikader, 1982
+Callilepis ketani Gajbe, 1984
+Callilepis lambai Tikader & Gajbe, 1977
+Callilepis pawani Gajbe, 1984
+Callilepis rajani Gajbe, 1984
+Callilepis rajasthanica Tikader & Gajbe, 1977
+Callilepis rukminiae Tikader & Gajbe, 1977
+Camillina smythiesi (Simon, 1897)
+Drassodes andamanensis Tikader, 1977
+Drassodes astrologus (O. Pickard-Cambridge, 1874)
+Drassodes cambridgei Roewer, 1951
+Drassodes carinivulvus Caporiacco, 1934
+Drassodes cerinus Simon, 1897
+Drassodes clavifemur (Reimoser, 1935)
+Drassodes delicatus (Blackwall, 1867)
+Drassodes deoprayagensis Tikader & Gajbe, 1975
+Drassodes gangeticus Tikader & Gajbe, 1975
+Drassodes gujaratensis Patel & Patel, 1975
+Drassodes heterophthalmus Simon, 1905
+Drassodes himalayensis Tikader & Gajbe, 1975
+Echemus interemptor (O. Pickard-Cambridge, 1885)
+Coreodrassus interlisus (O. Pickard-Cambridge, 1885)
+Drassodes involutus (O. Pickard-Cambridge, 1885)
+Drassodes luridus (O. Pickard-Cambridge, 1874)
+Drassodes macilentus (O. Pickard-Cambridge, 1874)
+Drassodes meghalayaensis Tikader & Gajbe, 1977
+Drassodes narayanpurensis Gajbe, 2005
+Drassodes parvidens Caporiacco, 1934
+Drassodes pashanensis Tikader & Gajbe, 1977
+Drassodes rubicundulus Caporiacco, 1934
+Drassodes sagarensis Tikader, 1982
+Drassodes singulariformis Roewer, 1951
+Drassodes sirmourensis (Tikader & Gajbe, 1977)
+Drassodes sitae Tikader & Gajbe, 1975
+Drassodes tikaderi (Gajbe, 1987)
+Drassodes viveki (Gajbe, 1992)
+Cryptodrassus khajuriai (Tikader & Gajbe, 1976)
+Cryptodrassus mahabalei (Tikader, 1982)
+Cryptodrassus platnicki (Gajbe, 1987)
+Cryptodrassus ratnagiriensis (Tikader & Gajbe, 1976)
+Echemus chaperi Simon, 1885
+Echemus viveki Gajbe, 1989
+Eilica kandarpae Nigam & Patel, 1996
+Eilica platnicki Tikader & Gajbe, 1977
+Eilica songadhensis Patel, 1988
+Eilica tikaderi Platnick, 1976
+Gnaphosa dege Ovtsharenko, Platnick & Song, 1992
+Gnaphosa jodhpurensis Tikader & Gajbe, 1977
+Gnaphosa kailana Tikader, 1966
+Gnaphosa kankhalae Biswas & Roy, 2008
+Gnaphosa pauriensis Tikader & Gajbe, 1977
+Gnaphosa poonaensis Tikader, 1973
+Gnaphosa rohtakensis Gajbe, 1992
+Haplodrassus ambalaensis Gajbe, 1992
+Haplodrassus bengalensis Gajbe, 1992
+Haplodrassus chotanagpurensis Gajbe, 1987
+Haplodrassus dumdumensis Tikader, 1982
+Haplodrassus jacobi Gajbe, 1992
+Haplodrassus sataraensis Tikader & Gajbe, 1977
+Haplodrassus tehriensis Tikader & Gajbe, 1977
+Zelotes calcuttaensis (Biswas, 1984)
+Scotophaeus goaensis (Tikader, 1982)
+Heser vijayanagara Bosselaers, 2010
+Ladissa inda (Simon, 1897)
+Ladissa latecingulata Simon, 1907
+Megamyrmaekion caudatum Reuss, 1834
+Poecilochroa jodhpurensis (Gajbe, 1993)
+Micaria dives (Lucas, 1846)
+Micaria faltana Bhattacharya, 1935
+Micaria pulcherrima Caporiacco, 1935
+Setaphis solanensis (Tikader & Gajbe, 1977)
+Setaphis tikaderi (Gajbe, 1993)
+Nomisia harpax (O. Pickard-Cambridge, 1874)
+Drassodes haribhaiius (Patel & Patel, 1975)
+Synaphosus parvus (O. Pickard-Cambridge, 1906)
+Poecilochroa poonaensis (Tikader, 1982)
+Poecilochroa barmani Tikader, 1982
+Poecilochroa behni Thorell, 1891
+Poecilochroa devendrai Gajbe & Rane, 1985
+Poecilochroa sedula (Simon, 1897)
+Poecilochroa tikaderi Patel, 1989
+Poecilochroa tridotus Caleb & Mathai, 2013
+Pterotricha strandi Spassky, 1936
+Poecilochroa kuljitae (Tikader, 1982)
+Megamyrmaekion pritiae (Tikader, 1982)
+Megamyrmaekion tikaderi (Gajbe, 1987)
+Scotophaeus bharatae Gajbe, 1989
+Drassodes dispulsus (O. Pickard-Cambridge, 1885)
+Scotophaeus domesticus Tikader, 1962
+Drassodes invisus (O. Pickard-Cambridge, 1885)
+Scotophaeus kalimpongensis Gajbe, 1992
+Scotophaeus madalasae Tikader & Gajbe, 1977
+Scotophaeus merkaricola Strand, 1907
+Scotophaeus poonaensis Tikader, 1982
+Scotophaeus rajasthanus Tikader, 1966
+Scotophaeus simlaensis Tikader, 1982
+Poecilochroa khodiar (Patel, 1988)
+Hitobia lamhetaghatensis (Gajbe & Gajbe, 1999)
+Hitobia meghalayensis (Tikader & Gajbe, 1976)
+Hitobia poonaensis (Tikader & Gajbe, 1976)
+Hitobia singhi (Tikader & Gajbe, 1976)
+Setaphis browni (Tucker, 1923)
+Setaphis subtilis (Simon, 1897)
+Sphingius dherikanalensis (Gajbe, 1979)
+Sphingius nainitalensis (Gajbe, 1979)
+Urozelotes pawani (Gajbe, 1993)
+Sphingius solanensis (Gajbe, 1979)
+Talanites tibialis Caporiacco, 1934
+Marinarozelotes jaxartensis (Kroneberg, 1875)
+Zelotes ashae Tikader & Gajbe, 1976
+Zelotes baltoroi Caporiacco, 1934
+Zelotes bharatae Gajbe, 2005
+Zelotes chandosiensis Tikader & Gajbe, 1976
+Zelotes choubeyi Tikader & Gajbe, 1979
+Zelotes desioi Caporiacco, 1934
+Zelotes hospitus (Simon, 1897)
+Zelotes jabalpurensis Tikader & Gajbe, 1976
+Zelotes kusumae Tikader, 1982
+Zelotes maindroni (Simon, 1905)
+Zelotes mandae Tikader & Gajbe, 1979
+Zelotes mandlaensis Tikader & Gajbe, 1976
+Zelotes nainitalensis Tikader & Gajbe, 1976
+Zelotes naliniae Tikader & Gajbe, 1979
+Zelotes nasikensis Tikader & Gajbe, 1976
+Zelotes nilgirinus Reimoser, 1934
+Zelotes pexus (Simon, 1885)
+Zelotes poonaensis Tikader & Gajbe, 1976
+Zelotes pseudopusillus Caporiacco, 1934
+Zelotes sajali Tikader & Gajbe, 1979
+Zelotes sataraensis Tikader & Gajbe, 1979
+Zelotes shantae Tikader, 1982
+Zelotes sindi Caporiacco, 1934
+Zelotes surekhae Tikader & Gajbe, 1976
+Zelotes tambaramensis Caleb & Mathai, 2013
+Zelotes univittatus (Simon, 1897)
+Zelotes viveki Gajbe, 2005
+Zelotes yogeshi Gajbe, 2005
+Hahnia mridulae Tikader, 1970
+Scotospilus maindroni (Simon, 1906)
+Hersilia longivulva Sen, Saha & Raychaudhuri, 2010
+Hersilia orvakalensis Javed, Foord & Tampal, 2010
+Hersilia savignyi Lucas, 1836
+Hersilia scrupulosa Foord & Dippenaar-Schoeman, 2006
+Hersilia striata Wang & Yin, 1985
+Hersilia sumatrana (Thorell, 1890)
+Hersilia tibialis M. Baehr & B. Baehr, 1993
+Murricia hyderabadensis Javed & Tampal, 2010
+Murricia trapezodica Sen, Saha & Raychaudhuri, 2010
+Murricia triangularis M. Baehr & B. Baehr, 1993
+Neotama punctigera M. Baehr & B. Baehr, 1993
+Neotama rothorum M. Baehr & B. Baehr, 1993
+Macrothele vidua Simon, 1906
+Storenomorpha raghavai (Patel & Reddy, 1991)
+Heligmomerus barkudensis (Gravely, 1921)
+Heligmomerus biharicus (Gravely, 1915)
+Heligmomerus garoensis (Tikader, 1977)
+Heligmomerus prostans Simon, 1892
+Idiops bombayensis Siliwal, Molur & Biswas, 2005
+Idiops constructor (Pocock, 1900)
+Idiops designatus O. Pickard-Cambridge, 1885
+Idiops fortis (Pocock, 1900)
+Idiops fossor (Pocock, 1900)
+Idiops joida Gupta, Das & Siliwal, 2013
+Idiops kaasensis Mirza, Vaze & Sanap, 2012
+Idiops madrasensis (Tikader, 1977)
+Idiops mettupalayam Ganeshkumar & Siliwal, 2013
+Idiops oriya Siliwal, 2013
+Idiops rubrolimbatus Mirza & Sanap, 2012
+Scalidognathus montanus (Pocock, 1900)
+Scalidognathus nigriaraneus Sanap & Mirza, 2011
+Scalidognathus tigerinus Sanap & Mirza, 2011
+Anguliphantes nepalensis (Tanasevitch, 1987)
+Anguliphantes nepalensoides Tanasevitch, 2011
+Caviphantes pseudosaxetorum Wunderlich, 1979
+Cresmatoneta leucophthalma (Fage, 1946)
+Emenista bisinuosa Simon, 1894
+Erigone bifurca Locket, 1982
+Erigone rohtangensis Tikader, 1981
+Gongylidiellum confusum Thaler, 1987
+Gongylidiellum nepalense Wunderlich, 1983
+Gongylidioides keralaensis Tanasevitch, 2011
+Gongylidioides pectinatus Tanasevitch, 2011
+Himalaphantes martensi (Thaler, 1987)
+Indophantes bengalensis Saaristo & Tanasevitch, 2003
+Indophantes digitulus (Thaler, 1987)
+Indophantes pallidus Saaristo & Tanasevitch, 2003
+Indophantes tonglu Tanasevitch, 2011
+Lepthyphantes bhudbari Tikader, 1970
+Lepthyphantes lingsoka Tikader, 1970
+Lepthyphantes rudrai Tikader, 1970
+Lepthyphantes peramplus (O. Pickard-Cambridge, 1885)
+Linyphia sikkimensis Tikader, 1970
+Lepthyphantes stramineus (O. Pickard-Cambridge, 1885)
+Chrysso urbasae (Tikader, 1970)
+Microbathyphantes palmarius (Marples, 1955)
+Nasoona crucifera (Thorell, 1895)
+Neriene birmanica (Thorell, 1887)
+Neriene macella (Thorell, 1898)
+Nasoona asocialis (Wunderlich, 1974)
+Oedothorax globiceps Thaler, 1987
+Oedothorax retusus (Westring, 1851)
+Oia sororia Wunderlich, 1973
+Paracymboides aduncus Tanasevitch, 2011
+Paracymboides tibialis Tanasevitch, 2011
+Paragongylidiellum caliginosum Wunderlich, 1973
+Atypena cirrifrons (Heimer, 1984)
+Pelecopsis indus Tanasevitch, 2011
+Tapinocyboides bengalensis Tanasevitch, 2011
+Tiso incisus Tanasevitch, 2011
+Tiso indianus Tanasevitch, 2011
+Ummeliata insecticeps (Bösenberg & Strand, 1906)
+Walckenaeria martensi Wunderlich, 1972
+Walckenaeria saetigera Tanasevitch, 2011
+Agroeca gangotrae Biswas & Roy, 2008
+Paratus indicus Marusik, Zheng & Li, 2008
+Sphingius barkudensis Gravely, 1931
+Sphingius bilineatus Simon, 1906
+Sphingius caniceps Simon, 1906
+Cambalida kambakamensis (Gravely, 1931)
+Inthaeron longipes (Gravely, 1931)
+Sphingius nilgiriensis Gravely, 1931
+Sphingius paltaensis Biswas & Biswas, 1992
+Agalenocosa subinermis (Simon, 1897)
+Arctosa himalayensis Tikader & Malhotra, 1980
+Arctosa indica Tikader & Malhotra, 1980
+Arctosa khudiensis (Sinha, 1951)
+Arctosa lesserti Reimoser, 1934
+Arctosa sandeshkhaliensis Majumder, 2004
+Crocodilosa leucostigma (Simon, 1885)
+Crocodilosa maindroni (Simon, 1897)
+Draposa atropalpis (Gravely, 1924)
+Draposa lyrivulva (Bösenberg & Strand, 1906)
+Draposa nicobarica (Thorell, 1891)
+Draposa oakleyi (Gravely, 1924)
+Draposa porpaensis (Gajbe, 2004)
+Draposa subhadrae (Patel & Reddy, 1993)
+Evippa banarensis Tikader & Malhotra, 1980
+Evippa jabalpurensis Gajbe, 2004
+Evippa praelongipes (O. Pickard-Cambridge, 1871)
+Evippa rajasthanea Tikader & Malhotra, 1980
+Evippa rubiginosa Simon, 1885
+Evippa shivajii Tikader & Malhotra, 1980
+Evippa sohani Tikader & Malhotra, 1980
+Evippa solanensis Tikader & Malhotra, 1980
+Evippomma evippinum (Simon, 1897)
+Geolycosa carli (Reimoser, 1934)
+Geolycosa charitonovi (Mcheidze, 1997)
+Hippasa agelenoides (Simon, 1884)
+Hippasa charamaensis Gajbe, 2004
+Hippasa fabreae Gajbe & Gajbe, 1999
+Hippasa greenalliae (Blackwall, 1867)
+Hippasa hansae Gajbe & Gajbe, 1999
+Hippasa haryanensis Arora & Monga, 1994
+Hippasa himalayensis Gravely, 1924
+Hippasa holmerae Thorell, 1895
+Hippasa loundesi Gravely, 1924
+Hippasa lycosina Pocock, 1900
+Hippasa madhuae Tikader & Malhotra, 1980
+Hippasa madraspatana Gravely, 1924
+Hippasa olivacea (Thorell, 1887)
+Hippasa pisaurina Pocock, 1900
+Hippasa valiveruensis Patel & Reddy, 1993
+Hippasa wigglesworthi Gajbe & Gajbe, 1999
+Serratacosa himalayensis (Gravely, 1924)
+Hogna stictopyga (Thorell, 1895)
+Lycosa arambagensis Biswas & Biswas, 1992
+Lycosa balaramai Patel & Reddy, 1993
+Lycosa barnesi Gravely, 1924
+Lycosa bhatnagari Sadana, 1969
+Lycosa bistriata Gravely, 1924
+Lycosa carmichaeli Gravely, 1924
+Lycosa chaperi Simon, 1885
+Lycosa choudhuryi Tikader & Malhotra, 1980
+Lycosa fuscana Pocock, 1901
+Lycosa geotubalis Tikader & Malhotra, 1980
+Lycosa goliathus Pocock, 1901
+Lycosa indagatrix Walckenaer, 1837
+Lycosa iranii Pocock, 1901
+Lycosa jagadalpurensis Gajbe, 2004
+Lycosa kempi Gravely, 1924
+Lycosa lambai Tikader & Malhotra, 1980
+Lycosa mackenziei Gravely, 1924
+Lycosa madani Pocock, 1901
+Lycosa mahabaleshwarensis Tikader & Malhotra, 1980
+Lycosa masteri Pocock, 1901
+Lycosa nigrotibialis Simon, 1884
+Lycosa phipsoni Pocock, 1899
+Lycosa pictula Pocock, 1901
+Lycosa poonaensis Tikader & Malhotra, 1980
+Lycosa prolifica Pocock, 1901
+Lycosa shahapuraensis Gajbe, 2004
+Lycosa shaktae Bhandari & Gajbe, 2001
+Lycosa shillongensis Tikader & Malhotra, 1980
+Lycosa thoracica Patel & Reddy, 1993
+Lycosa tista Tikader, 1970
+Lycosa wroughtoni Pocock, 1899
+Margonia himalayensis (Gravely, 1924)
+Ocyale kalpiensis Gajbe, 2004
+Ocyale pilosa (Roewer, 1960)
+Pardosa algoides Schenkel, 1963
+Pardosa alii Tikader, 1977
+Pardosa altitudis Tikader & Malhotra, 1980
+Draposa amkhasensis (Tikader & Malhotra, 1976)
+Pardosa balaghatensis Gajbe, 2004
+Pardosa bargaonensis Gajbe, 2004
+Pardosa bastarensis Gajbe, 2004
+Draposa burasantiensis (Tikader & Malhotra, 1976)
+Pardosa chambaensis Tikader & Malhotra, 1976
+Pardosa debolinae Majumder, 2004
+Pardosa duplicata Saha, Biswas & Raychaudhuri, 1994
+Pardosa flavisterna Caporiacco, 1935
+Pardosa fletcheri (Gravely, 1924)
+Pardosa gopalai Patel & Reddy, 1993
+Pardosa haupti Song, 1995
+Pardosa heterophthalma (Simon, 1898)
+Pardosa jabalpurensis Gajbe & Gajbe, 1999
+Pardosa kalpiensis Gajbe, 2004
+Pardosa kupupa (Tikader, 1970)
+Pardosa minuta Tikader & Malhotra, 1976
+Pardosa mukundi Tikader & Malhotra, 1980
+Pardosa orcchaensis Gajbe, 2004
+Pardosa partita Simon, 1885
+Ovia procurva (Yu & Song, 1988)
+Pardosa pseudoannulata (Bösenberg & Strand, 1906)
+Pardosa pusiola (Thorell, 1891)
+Pardosa ranjani Gajbe, 2004
+Pardosa rhenockensis (Tikader, 1970)
+Pardosa shyamae (Tikader, 1970)
+Pardosa songosa Tikader & Malhotra, 1976
+Pardosa suchismitae Majumder, 2004
+Pardosa sumatrana (Thorell, 1890)
+Pardosa sutherlandi (Gravely, 1924)
+Pardosa tappaensis Gajbe, 2004
+Pardosa thalassia (Thorell, 1891)
+Pardosa tikaderi Arora & Monga, 1994
+Pardosa tridentis Caporiacco, 1935
+Shapna pluvialis Hippa & Lehtinen, 1983
+Trochosa dentichelis Buchar, 1997
+Trochosa gunturensis Patel & Reddy, 1993
+Trochosa himalayensis Tikader & Malhotra, 1980
+Trochosa punctipes (Gravely, 1924)
+Trochosa ruricoloides Schenkel, 1963
+Wadicosa fidelis (O. Pickard-Cambridge, 1872)
+Wadicosa quadrifera (Gravely, 1924)
+Draconarius harduarae (Biswas & Roy, 2008)
+Zoica puellula (Simon, 1898)
+Melaenosia pustulifera Simon, 1906
+Mimetus indicus Simon, 1906
+Cheiracanthium aizwalense Biswas & Biswas, 2007
+Cheiracanthium approximatum O. Pickard-Cambridge, 1885
+Cheiracanthium conflexum Simon, 1906
+Cheiracanthium conspersum (Thorell, 1891)
+Cheiracanthium danieli Tikader, 1975
+Cheiracanthium himalayense Gravely, 1931
+Cheiracanthium incomptum (Thorell, 1891)
+Cheiracanthium indicum O. Pickard-Cambridge, 1874
+Cheiracanthium inornatum O. Pickard-Cambridge, 1874
+Cheiracanthium insigne O. Pickard-Cambridge, 1874
+Cheiracanthium jabalpurense Majumder & Tikader, 1991
+Cheiracanthium kashmirense Majumder & Tikader, 1991
+Cheiracanthium melanostomum (Thorell, 1895)
+Cheiracanthium murinum (Thorell, 1895)
+Cheiracanthium mysorense Majumder & Tikader, 1991
+Cheiracanthium nalsaroverense Patel & Patel, 1973
+Cheiracanthium pauriense Majumder & Tikader, 1991
+Cheiracanthium poonaense Majumder & Tikader, 1991
+Cheiracanthium punjabense Sadana & Bajaj, 1980
+Cheiracanthium sambii Patel & Reddy, 1991
+Cheiracanthium saraswatii Tikader, 1962
+Cheiracanthium seshii Patel & Reddy, 1991
+Cheiracanthium sikkimense Majumder & Tikader, 1991
+Cheiracanthium tanmoyi Biswas & Roy, 2005
+Cheiracanthium triviale (Thorell, 1895)
+Cheiracanthium trivittatum Simon, 1906
+Cheiracanthium vorax O. Pickard-Cambridge, 1874
+Eutichurus chingliputensis Majumder & Tikader, 1991
+Eutichurus tezpurensis Biswas, 1991
+Palicanus caudatus Thorell, 1897
+Iardinis mussardi Brignoli, 1980
+Damarchus assamensis Hirst, 1909
+Damarchus bifidus Gravely, 1935
+Gravelyia excavatus (Gravely, 1921)
+Herennia multipuncta (Doleschall, 1859)
+Trichonephila clavata (L. Koch, 1878)
+Nephila dirangensis Biswas & Biswas, 2006
+Nephila pilipes (Fabricius, 1793)
+Nephilengys malabarensis (Walckenaer, 1841)
+Nesticella nepalensis (Hubert, 1973)
+Althepus incognitus Brignoli, 1973
+Oecobius chiasma Barman, 1978
+Oecobius marathaus Tikader, 1962
+Oecobius putus O. Pickard-Cambridge, 1876
+Uroctea indica Pocock, 1900
+Uroctea manii Patel, 1987
+Uroctea thaleri Rheims, Santos & van Harten, 2007
+Aprusia kerala Grismado & Deeleman, 2011
+Brignolia assam Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia bengal Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia cardamom Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia jog Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia kaikatty Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia karnataka Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia kodaik Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia kumily Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia nigripalpis (Simon, 1893)
+Brignolia nilgiri Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia parumpunctata (Simon, 1893)
+Brignolia rothorum Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Brignolia valparai Platnick, Dupérré, Ott & Kranz-Baltensperger, 2011
+Camptoscaphiella fulva Caporiacco, 1934
+Camptoscaphiella gunsa Baehr, 2010
+Camptoscaphiella loebli Baehr, 2010
+Dysderoides typhlos Fage, 1946
+Gamasomorpha clypeolaria Simon, 1907
+Ischnothyreus deccanensis Tikader & Malhotra, 1974
+Ischnothyreus shillongensis Tikader, 1968
+Orchestina truncatula Tong & Li, 2011
+Pelicinus lachivala Platnick, Dupérré, Ott, Baehr & Kranz-Baltensperger, 2012
+Pelicinus madurai Platnick, Dupérré, Ott, Baehr & Kranz-Baltensperger, 2012
+Prethopalpus khasi Baehr, 2012
+Prethopalpus madurai Baehr, 2012
+Prethopalpus mahanadi Baehr, 2012
+Prethopalpus meghalaya Baehr, 2012
+Triaeris barela Gajbe, 2004
+Camptoscaphiella glenniei (Fage, 1946)
+Triaeris khashiensis Tikader, 1966
+Triaeris manii Tikader & Malhotra, 1974
+Triaeris melghaticus Bastawade, 2005
+Triaeris nagarensis Tikader & Malhotra, 1974
+Triaeris nagpurensis Tikader & Malhotra, 1974
+Triaeris poonaensis Tikader & Malhotra, 1974
+Hamadruas insulana (Thorell, 1891)
+Hamadruas sikkimensis (Tikader, 1970)
+Hamataliwa incompta (Thorell, 1895)
+Hamataliwa pentagona Tang & Li, 2012
+Hamataliwa subhadrae (Tikader, 1970)
+Oxyopes armatipalpis Strand, 1912
+Oxyopes ashae Gajbe, 1999
+Oxyopes assamensis Tikader, 1969
+Oxyopes bharatae Gajbe, 1999
+Oxyopes biharensis Gajbe, 1999
+Oxyopes birmanicus Thorell, 1887
+Oxyopes boriensis Bodkhe & Vankhede, 2012
+Oxyopes chittrae Tikader, 1965
+Oxyopes elongatus Biswas, Kundu, Kundu, Saha & Raychaudhuri, 1996
+Oxyopes gujaratensis Gajbe, 1999
+Oxyopes gurjanti Sadana & Gupta, 1995
+Oxyopes hindostanicus Pocock, 1901
+Oxyopes hotingchiehi Schenkel, 1963
+Oxyopes indicus (Walckenaer, 1805)
+Oxyopes jabalpurensis Gajbe & Gajbe, 1999
+Oxyopes javanus Thorell, 1887
+Oxyopes kamalae Gajbe, 1999
+Oxyopes ketani Gajbe & Gajbe, 1999
+Oxyopes kohaensis Bodkhe & Vankhede, 2012
+Oxyopes kumarae Biswas & Roy, 2005
+Oxyopes kusumae Gajbe, 1999
+Oxyopes lepidus (Blackwall, 1864)
+Oxyopes longinquus Thorell, 1891
+Oxyopes longispinus Saha & Raychaudhuri, 2003
+Oxyopes ludhianaensis Sadana & Goel, 1995
+Oxyopes minutus Biswas, Kundu, Kundu, Saha & Raychaudhuri, 1996
+Oxyopes naliniae Gajbe, 1999
+Oxyopes nilgiricus Sherriffs, 1955
+Hamataliwa ovata (Biswas, Kundu, Kundu, Saha & Raychaudhuri, 1996)
+Oxyopes pandae Tikader, 1969
+Oxyopes pankaji Gajbe & Gajbe, 2000
+Oxyopes pawani Gajbe, 1992
+Oxyopes rajai Saha & Raychaudhuri, 2003
+Oxyopes ratnae Tikader, 1970
+Oxyopes reddyi Majumder, 2004
+Hamataliwa reticulata (Biswas, Kundu, Kundu, Saha & Raychaudhuri, 1996)
+Oxyopes rufisternis Pocock, 1901
+Oxyopes rukminiae Gajbe, 1999
+Oxyopes ryvesi Pocock, 1901
+Oxyopes sakuntalae Tikader, 1970
+Oxyopes saradae Biswas & Roy, 2005
+Oxyopes sataricus Kulkarni & Deshpande, 2012
+Oxyopes sertatus L. Koch, 1878
+Oxyopes shweta Tikader, 1970
+Oxyopes sitae Tikader, 1970
+Oxyopes subimali Biswas, Kundu, Kundu, Saha & Raychaudhuri, 1996
+Oxyopes sunandae Tikader, 1970
+Oxyopes sushilae Tikader, 1965
+Oxyopes tikaderi Biswas & Majumder, 1995
+Oxyopes travancoricola Strand, 1912
+Oxyopes wroughtoni Pocock, 1901
+Peucetia akwadaensis Patel, 1978
+Peucetia ananthakrishnani Murugesan, Mathew, Sudhikumar, Sunish, Biju & Sebastian, 2006
+Peucetia ashae Gajbe & Gajbe, 1999
+Peucetia betlaensis Saha & Raychaudhuri, 2007
+Peucetia biharensis Gajbe, 1999
+Peucetia choprai Tikader, 1965
+Peucetia elegans (Blackwall, 1864)
+Peucetia gauntleta Saha & Raychaudhuri, 2004
+Peucetia graminea Pocock, 1900
+Peucetia harishankarensis Biswas, 1975
+Peucetia jabalpurensis Gajbe & Gajbe, 1999
+Peucetia ketani Gajbe, 1992
+Peucetia latikae Tikader, 1970
+Peucetia pawani Gajbe, 1999
+Peucetia punjabensis Gajbe, 1999
+Peucetia rajani Gajbe, 1999
+Peucetia ranganathani Biswas & Roy, 2005
+Peucetia viridana (Stoliczka, 1869)
+Peucetia viveki Gajbe, 1999
+Peucetia yogeshi Gajbe, 1999
+Otiothops namratae Pillai, 2006
+Palpimanus vultuosus Simon, 1897
+Sarascelis raffrayi Simon, 1893
+Apollophanes bangalores Tikader, 1963
+Ebo bharatae Tikader, 1965
+Gephyrota pudica (Simon, 1906)
+Philodromus ashae Gajbe & Gajbe, 1999
+Philodromus assamensis Tikader, 1962
+Philodromus barmani Tikader, 1980
+Philodromus betrabatai Tikader, 1966
+Philodromus bhagirathai Tikader, 1966
+Philodromus bigibbus (O. Pickard-Cambridge, 1876)
+Philodromus chambaensis Tikader, 1980
+Philodromus decoratus Tikader, 1962
+Philodromus devhutai Tikader, 1966
+Philodromus domesticus Tikader, 1962
+Philodromus durvei Tikader, 1980
+Philodromus frontosus Simon, 1897
+Philodromus jabalpurensis Gajbe & Gajbe, 1999
+Philodromus ketani Gajbe, 2005
+Rhysodromus lepidus (Blackwall, 1870)
+Philodromus maliniae Tikader, 1966
+Philodromus manikae Tikader, 1971
+Philodromus mohiniae Tikader, 1966
+Philodromus pali Gajbe & Gajbe, 2001
+Philodromus pawani Gajbe, 2005
+Philodromus rajani Gajbe, 2005
+Philodromus sanjeevi Gajbe, 2004
+Philodromus shillongensis Tikader, 1962
+Philodromus tiwarii Basu, 1973
+Psellonus planus Simon, 1897
+Thanatus dhakuricus Tikader, 1960
+Thanatus indicus Simon, 1885
+Thanatus jabalpurensis Gajbe & Gajbe, 1999
+Thanatus ketani Bhandari & Gajbe, 2001
+Thanatus lanceoletus Tikader, 1966
+Thanatus mandali Tikader, 1965
+Thanatus prolixus Simon, 1897
+Thanatus simplicipalpis Simon, 1882
+Thanatus stripatus Tikader, 1980
+Tibellus chaturshingi Tikader, 1962
+Tibellus elongatus Tikader, 1960
+Tibellus jabalpurensis Gajbe & Gajbe, 1999
+Tibellus katrajghatus Tikader, 1962
+Tibellus pashanensis Tikader, 1980
+Tibellus pateli Tikader, 1980
+Tibellus poonaensis Tikader, 1962
+Tibellus vitilis Simon, 1906
+Belisana dodabetta Huber, 2005
+Belisana marusiki Huber, 2005
+Leptopholcus kandy Huber, 2011
+Micropholcus fauroti (Simon, 1887)
+Pholcus djelalabad Senglet, 2008
+Pholcus fragillimus Strand, 1907
+Pholcus kapuri Tikader, 1977
+Pholcus medog Zhang, Zhu & Song, 2006
+Pholcus alagarkoil (Huber, 2011)
+Pimoa crispa (Fage, 1946)
+Pimoa gandhii Hormiga, 1994
+Pimoa indiscreta Hormiga, 1994
+Pimoa thaleri Trotta, 2009
+Dendrolycosa bobbiliensis (Reddy & Patel, 1993)
+Dendrolycosa gitae (Tikader, 1970)
+Eucamptopus coronatus Pocock, 1900
+Euprosthenops ellioti (O. Pickard-Cambridge, 1877)
+Hygropoda chandrakantii (Reddy & Patel, 1993)
+Hygropoda gracilis (Thorell, 1891)
+Hygropoda sikkimus (Tikader, 1970)
+Nilus albocinctus (Doleschall, 1859)
+Nilus decorata (Patel & Reddy, 1990)
+Nilus phipsoni (F. O. Pickard-Cambridge, 1898)
+Nilus pseudoalbocinctus (Sen, Saha & Raychaudhuri, 2010)
+Perenethis dentifasciata (O. Pickard-Cambridge, 1885)
+Perenethis sindica (Simon, 1897)
+Perenethis venusta L. Koch, 1878
+Pisaura podilensis Patel & Reddy, 1990
+Pisaura swamii Patel, 1987
+Polyboea vulpina Thorell, 1895
+Polyboea zonaformis (Wang, 1993)
+Tinus arindamai Biswas & Roy, 2005
+Prodidomus chaperi (Simon, 1884)
+Prodidomus palkai Cooke, 1972
+Prodidomus papavanasanemensis Cooke, 1972
+Prodidomus saharanpurensis (Tikader, 1982)
+Prodidomus sirohi Platnick, 1976
+Prodidomus tirumalai Cooke, 1972
+Prodidomus venkateswarai Cooke, 1972
+Zimiris diffusa Platnick & Penney, 2004
+Zimiris doriae Simon, 1882
+Fecenia protensa Thorell, 1891
+Psechrus crepido Bayer, 2012
+Psechrus hartmanni Bayer, 2012
+Psechrus himalayanus Simon, 1906
+Psechrus inflatus Bayer, 2012
+Psechrus torvus (O. Pickard-Cambridge, 1869)
+Aelurillus improvisus Azarkina, 2002
+Aelurillus kronestedti Azarkina, 2004
+Aelurillus minimontanus Azarkina, 2002
+Aelurillus quadrimaculatus Simon, 1889
+Asemonea cristata Thorell, 1895
+Asemonea tenuipes (O. Pickard-Cambridge, 1869)
+Bianor albobimaculatus (Lucas, 1846)
+Bianor angulosus (Karsch, 1879)
+Bianor narmadaensis (Tikader, 1975)
+Bianor pashanensis (Tikader, 1975)
+Bianor pseudomaculatus Logunov, 2001
+Bianor punjabicus Logunov, 2001
+Bianor tortus Jastrzebski, 2007
+Brettus adonis Simon, 1900
+Brettus anchorum Wanless, 1979
+Brettus cingulatus Thorell, 1895
+Burmattus pococki (Thorell, 1895)
+Carrhotus erus Jastrzebski, 1999
+Carrhotus sannio (Thorell, 1877)
+Carrhotus tristis Thorell, 1895
+Carrhotus viduus (C. L. Koch, 1846)
+Chalcoscirtus glacialis Caporiacco, 1935
+Chalcoscirtus martensi Żabka, 1980
+Chalcotropis pennata Simon, 1902
+Chinattus validus (Xie, Peng & Kim, 1993)
+Chrysilla acerosa Wang & Zhang, 2012
+Cocalus murinus Simon, 1899
+Colaxes nitidiventris Simon, 1900
+Cosmophasis miniaceomicans (Simon, 1888)
+Curubis erratica Simon, 1902
+Curubis sipeki Dobroruka, 2004
+Curubis tetrica Simon, 1902
+Cyrba ocellata (Kroneberg, 1875)
+Cytaea albolimbata Simon, 1888
+Dexippus kleini Thorell, 1891
+Dexippus topali Prószyński, 1992
+Epeus albus Prószyński, 1992
+Epeus chilapataensis (Biswas & Biswas, 1992)
+Epeus indicus Prószyński, 1992
+Epocilla aurantiaca (Simon, 1885)
+Epocilla calcarata (Karsch, 1880)
+Epocilla praetextata Thorell, 1887
+Epocilla xylina Simon, 1906
+Euophrys evae Żabka, 1981
+Lechia minuta (Prószyński, 1992)
+Evarcha flavocincta (C. L. Koch, 1846)
+Evarcha pococki Żabka, 1985
+Ghumattus primus Prószyński, 1992
+Habrocestoides bengalensis Prószyński, 1992
+Habrocestoides darjeelingus Logunov, 1999
+Habrocestoides indicus Prószyński, 1992
+Habrocestoides micans Logunov, 1999
+Habrocestoides nitidus Logunov, 1999
+Harmochirus brachiatus (Thorell, 1877)
+Harmochirus lloydi Narayan, 1915
+Harmochirus zabkai Logunov, 2001
+Hasarius adansoni (Audouin, 1826)
+Heliophanoides epigynalis Prószyński, 1992
+Heliophanoides spermathecalis Prószyński, 1992
+Heliophanus curvidens (O. Pickard-Cambridge, 1872)
+Hindumanes karnatakaensis (Tikader & Biswas, 1978)
+Jerzego bipartitus (Simon, 1903)
+Hyllus bos (Sundevall, 1833)
+Hyllus diardi (Walckenaer, 1837)
+Hyllus pudicus Thorell, 1895
+Hyllus semicupreus (Simon, 1885)
+Imperceptus minutus Prószyński, 1992
+Irura mandarina Simon, 1903
+Jajpurattus incertus Prószyński, 1992
+Langona goaensis Prószyński, 1992
+Langona kurracheensis Hęciak & Prószyński, 1983
+Langona simoni Hęciak & Prószyński, 1983
+Langona tigrina (Simon, 1885)
+Madhyattus jabalpurensis Prószyński, 1992
+Marengo crassipes G. W. Peckham & E. G. Peckham, 1892
+Proszynskia anusuae (Tikader & Biswas, 1981)
+Stenaelurillus arambagensis (Biswas & Biswas, 1992)
+Marpissa dayapurensis Majumder, 2004
+Marpissa gangasagarensis Majumder, 2005
+Marpissa kalighatensis Biswas & Biswas, 1992
+Marpissa manipuriensis Biswas & Biswas, 2004
+Marpissa mizoramensis Biswas & Biswas, 2007
+Marpissa nutanae Biswas & Biswas, 1984
+Marpissa pauariensis Biswas & Roy, 2008
+Marpissa prathamae Biswas & Biswas, 1984
+Phintelloides singhi (Monga, Singh & Sadana, 1989)
+Menemerus albocinctus Keyserling, 1890
+Menemerus brachygnathus (Thorell, 1887)
+Menemerus brevibulbis (Thorell, 1887)
+Menemerus fulvus (L. Koch, 1878)
+Menemerus marginatus (Kroneberg, 1875)
+Menemerus nigli Wesołowska & Freudenschuss, 2012
+Modunda staintoni (O. Pickard-Cambridge, 1872)
+Myrmarachne calcuttaensis Biswas, 1984
+Myrmarachne caliraya Barrion & Litsinger, 1995
+Myrmarachne dirangicus Bastawade, 2002
+Myrmarachne himalayensis Narayan, 1915
+Myrmarachne incerta Narayan, 1915
+Toxeus jajpurensis (Prószyński, 1992)
+Myrmarachne kuwagata Yaginuma, 1967
+Myrmarachne laeta (Thorell, 1887)
+Myrmarachne laeta Narayan, 1915
+Myrmarachne ludhianaensis Sadana & Gupta, 1998
+Myrmarachne manducator (Westwood, 1841)
+Myrmaplata plataleoides (O. Pickard-Cambridge, 1869)
+Myrmarachne platypalpa Bradoo, 1980
+Myrmarachne poonaensis Tikader, 1973
+Myrmarachne ramunni Narayan, 1915
+Myrmarachne robusta (G. W. Peckham & E. G. Peckham, 1892)
+Myrmarachne roeweri Reimoser, 1934
+Myrmarachne satarensis Narayan, 1915
+Myrmarachne transversa (Mukerjee, 1930)
+Myrmarachne tristis (Simon, 1882)
+Myrmarachne uniseriata Narayan, 1915
+Neobrettus tibialis (Prószyński, 1978)
+Onomastus indra Benjamin, 2010
+Onomastus patellaris Simon, 1900
+Pancorius daitaricus (Prószyński, 1992)
+Pancorius darjeelingianus Prószyński, 1992
+Pancorius magnus Żabka, 1985
+Pancorius submontanus Prószyński, 1992
+Pancorius tagorei Prószyński, 1992
+Pandisus indicus Prószyński, 1992
+Panysinus grammicus Simon, 1902
+Pellenes allegrii Caporiacco, 1935
+Phaeacius fimbriatus Simon, 1900
+Phaeacius lancearius (Thorell, 1895)
+Phidippus audax (Hentz, 1845)
+Phidippus bengalensis Tikader, 1977
+Phidippus bhimrakshiti Gajbe, 2004
+Phidippus calcuttaensis Biswas, 1984
+Phidippus khandalaensis Tikader, 1977
+Phidippus punjabensis Tikader, 1974
+Phidippus tirapensis Biswas & Biswas, 2006
+Phidippus yashodharae Tikader, 1977
+Phintella accentifera (Simon, 1901)
+Phintella assamica Prószyński, 1992
+Phintella bifurcata Prószyński, 1992
+Phintella coonooriensis Prószyński, 1992
+Phintella debilis (Thorell, 1891)
+Phintella indica (Simon, 1901)
+Phintella macrops (Simon, 1901)
+Nandicius mussooriensis (Prószyński, 1992)
+Phintella nilgirica Prószyński, 1992
+Phintella reinhardti (Thorell, 1891)
+Phintella suknana Prószyński, 1992
+Phintelloides versicolor (C. L. Koch, 1846)
+Phintella vittata (C. L. Koch, 1846)
+Chrysilla volupe (Karsch, 1879)
+Phlegra dhakuriensis (Tikader, 1974)
+Phlegra fasciata (Hahn, 1826)
+Pilia escheri Reimoser, 1934
+Pilia saltabunda Simon, 1902
+Padillothorax casteti (Simon, 1900)
+Piranthus decorus Thorell, 1895
+Plexippus andamanensis (Tikader, 1977)
+Plexippus calcutaensis (Tikader, 1974)
+Plexippus clemens (O. Pickard-Cambridge, 1872)
+Plexippus paykulli (Audouin, 1826)
+Plexippus redimitus Simon, 1902
+Portia albimana (Simon, 1900)
+Portia assamensis Wanless, 1978
+Portia fimbriata (Doleschall, 1859)
+Portia labiata (Thorell, 1887)
+Pseudamycus himalaya (Tikader, 1967)
+Pseudicius andamanius (Tikader, 1977)
+Okinawicius daitaricus (Prószyński, 1992)
+Nandicius frigidus (O. Pickard-Cambridge, 1885)
+Rudakius ludhianaensis (Tikader, 1974)
+Okinawicius modestus (Simon, 1885)
+Nepalicius nepalicus (Andreeva, Hęciak & Prószyński, 1984)
+Nandicius pseudoicioides (Caporiacco, 1935)
+Rhene albigera (C. L. Koch, 1846)
+Rhene callida G. W. Peckham & E. G. Peckham, 1895
+Rhene callosa (G. W. Peckham & E. G. Peckham, 1895)
+Rhene citri (Sadana, 1991)
+Rhene daitarensis Prószyński, 1992
+Rhene danieli Tikader, 1973
+Rhene darjeelingiana Prószyński, 1992
+Rhene decorata Tikader, 1977
+Rhene flavicomans Simon, 1902
+Rhene haldanei Gajbe, 2004
+Rhene indica Tikader, 1973
+Rhene khandalaensis Tikader, 1977
+Rhene mus (Simon, 1889)
+Rhene pantharae Biswas & Biswas, 1992
+Rhene rubrigera (Thorell, 1887)
+Rhene sanghrakshiti Gajbe, 2004
+Saitis chaperi Simon, 1885
+Siler semiglaucus (Simon, 1901)
+Similaria enigmatica Prószyński, 1992
+Attulus avocator (O. Pickard-Cambridge, 1885)
+Stenaelurillus lesserti Reimoser, 1934
+Bianor balius Thorell, 1890
+Synagelides darjeelingus Logunov & Hereward, 2006
+Synagelides lehtineni Logunov & Hereward, 2006
+Synagelides martensi Bohdanowicz, 1987
+Tamigalesus munnaricus Żabka, 1988
+Telamonia dimidiata (Simon, 1899)
+Telamonia festiva Thorell, 1887
+Telamonia peckhami Thorell, 1891
+Epocilla aura (Dyal, 1935)
+Thiania bhamoensis Thorell, 1887
+Thyene bivittata Xie & Peng, 1995
+Thyene imperialis (Rossi, 1846)
+Viciria diademata Simon, 1902
+Proszynskia diatreta (Simon, 1902)
+Viciria minima Reimoser, 1934
+Ptocasius senchalensis (Prószyński, 1992)
+Yllenus baltistanus Caporiacco, 1935
+Marusyllus gregoryi (Logunov, 2010)
+Marusyllus karnai (Logunov & Marusik, 2003)
+Zeuxippus histrio Thorell, 1891
+Scytodes alfredi Gajbe, 2004
+Scytodes gilva (Thorell, 1887)
+Scytodes kinsukus Patel, 1975
+Scytodes mawphlongensis Tikader, 1966
+Scytodes pallida Doleschall, 1859
+Scytodes propinqua Stoliczka, 1869
+Scytodes stoliczkai Simon, 1897
+Scytodes thoracica (Latreille, 1802)
+Scytodes univittata Simon, 1882
+Ariadna nebulosa Simon, 1906
+Segestria inda Simon, 1906
+Makdiops agumbensis (Tikader, 1969)
+Makdiops mahishasura Crews & Harvey, 2011
+Makdiops montigena (Simon, 1889)
+Makdiops nilgirensis (Reimoser, 1934)
+Makdiops shiva Crews & Harvey, 2011
+Selenops radiatus Latreille, 1819
+Makdiops shevaroyensis (Gravely, 1931)
+Loxosceles rufescens (Dufour, 1820)
+Bhutaniella sikkimensis (Gravely, 1931)
+Eusparassus kronebergi Denis, 1958
+Eusparassus pearsoni (Pocock, 1901)
+Eusparassus pontii Caporiacco, 1935
+Gnathopalystes kochi (Simon, 1880)
+Heteropoda afghana Roewer, 1962
+Heteropoda altithorax Strand, 1907
+Heteropoda bhaikakai Patel & Patel, 1973
+Olios bhattacharjeei (Saha & Raychaudhuri, 2007)
+Spariolenus buxa (Saha, Biswas & Raychaudhuri, 1995)
+Olios debalae (Biswas & Roy, 2005)
+Gnathopalystes denticulatus (Saha & Raychaudhuri, 2007)
+Heteropoda emarginativulva Strand, 1907
+Heteropoda fabrei Simon, 1885
+Heteropoda fischeri Jäger, 2005
+Heteropoda gourae Monga, Sadana & Singh, 1988
+Heteropoda hampsoni Pocock, 1901
+Heteropoda kandiana Pocock, 1899
+Heteropoda kuluensis Sethi & Tikader, 1988
+Heteropoda lentula Pocock, 1901
+Heteropoda leprosa Simon, 1884
+Heteropoda lunula (Doleschall, 1857)
+Heteropoda malitiosa Simon, 1906
+Heteropoda merkarensis Strand, 1907
+Heteropoda nilgirina Pocock, 1901
+Heteropoda nirounensis (Simon, 1903)
+Heteropoda pedata Strand, 1907
+Heteropoda phasma Simon, 1897
+Heteropoda robusta Fage, 1924
+Heteropoda sexpunctata Simon, 1885
+Pseudopoda shillongensis (Sethi & Tikader, 1988)
+Pseudopoda straminiosa (Kundu, Biswas & Raychaudhuri, 1999)
+Heteropoda striatipes (Leardi, 1902)
+Heteropoda subplebeia Strand, 1907
+Martensopoda minuscula (Reimoser, 1934)
+Martensopoda transversa Jäger, 2006
+Olios admiratus (Pocock, 1901)
+Olios bhavnagarensis Sethi & Tikader, 1988
+Olios gravelyi Sethi & Tikader, 1988
+Olios hampsoni (Pocock, 1901)
+Olios jaldaparaensis Saha & Raychaudhuri, 2007
+Olios lamarcki (Latreille, 1806)
+Olios milleti (Pocock, 1901)
+Olios obesulus (Pocock, 1901)
+Olios punctipes Simon, 1884
+Olios pyrozonis (Pocock, 1901)
+Olios rossettii (Leardi, 1901)
+Olios rotundiceps (Pocock, 1901)
+Olios senilis Simon, 1880
+Olios stimulator (Simon, 1897)
+Olios tarandus (Simon, 1897)
+Olios tener (Thorell, 1891)
+Olios tikaderi Kundu, Biswas & Raychaudhuri, 1999
+Olios wroughtoni (Simon, 1897)
+Palystes flavidus Simon, 1897
+Pandercetes celatus Pocock, 1899
+Pseudopoda abnormis Jäger, 2001
+Pseudopoda akashi (Sethi & Tikader, 1988)
+Pseudopoda casaria (Simon, 1897)
+Pseudopoda fabularis Jäger, 2008
+Pseudopoda hingstoni Jäger, 2001
+Pseudopoda minor Jäger, 2001
+Pseudopoda perplexa Jäger, 2008
+Pseudopoda prompta (O. Pickard-Cambridge, 1885)
+Pseudopoda sicca Jäger, 2008
+Sivalicus viridis Dyal, 1957
+Spariolenus tigris Simon, 1880
+Thelcticopis ajax Pocock, 1901
+Thelcticopis bicornuta Pocock, 1901
+Thelcticopis bifasciata (Thorell, 1891)
+Thelcticopis canescens Simon, 1887
+Thelcticopis maindroni Simon, 1906
+Thelcticopis moolampilliensis Sunil Jose & Sebastian, 2007
+Thelcticopis rufula Pocock, 1901
+Thelcticopis serambiformis Strand, 1907
+Thelcticopis virescens Pocock, 1901
+Stenochilus hobsoni O. Pickard-Cambridge, 1871
+Stenochilus scutulatus Platnick & Shadab, 1974
+Brignoliella besuchetiana Bourne, 1980
+Choiroblemma bengalense Bourne, 1980
+Choiroblemma rhinoxunum Bourne, 1980
+Indicoblemma sheari Bourne, 1980
+Tetrablemma brignolii Lehtinen, 1981
+Tetrablemma deccanense (Tikader, 1976)
+Tetrablemma loebli Bourne, 1980
+Tetrablemma medioculatum Lehtinen, 1981
+Dolichognatha longiceps (Thorell, 1895)
+Glenognatha dentata (Zhu & Wen, 1978)
+Guizygiella indica (Tikader & Bal, 1980)
+Guizygiella melanocrania (Thorell, 1887)
+Guizygiella shivui (Patel & Reddy, 1990)
+Leucauge beata (Pocock, 1901)
+Leucauge celebesiana (Walckenaer, 1841)
+Leucauge decorata (Blackwall, 1864)
+Leucauge dorsotuberculata Tikader, 1982
+Leucauge granulata (Walckenaer, 1841)
+Leucauge nicobarica (Thorell, 1891)
+Leucauge pusilla (Thorell, 1878)
+Leucauge rubrotrivittata Simon, 1906
+Leucauge tessellata (Thorell, 1887)
+Leucauge tristicta (Thorell, 1891)
+Meta abdomenalis Patel & Reddy, 1993
+Meta simlaensis Tikader, 1982
+Leucauge fastigata (Simon, 1877)
+Orsinome armata Pocock, 1901
+Tylorida marmorea (Pocock, 1901)
+Orsinome vethi (Hasselt, 1882)
+Tetragnatha andamanensis Tikader, 1977
+Tetragnatha bengalensis Walckenaer, 1841
+Tetragnatha bogotensis Keyserling, 1865
+Tetragnatha ceylonica O. Pickard-Cambridge, 1869
+Tetragnatha chamberlini (Gajbe, 2004)
+Tetragnatha cochinensis Gravely, 1921
+Tetragnatha coelestis Pocock, 1901
+Tetragnatha delumbis Thorell, 1891
+Tetragnatha fletcheri Gravely, 1921
+Tetragnatha foliferens Hingston, 1927
+Tetragnatha hasselti Thorell, 1890
+Tetragnatha irridescens Stoliczka, 1869
+Tetragnatha isidis (Simon, 1880)
+Tetragnatha josephi Okuma, 1988
+Tetragnatha keyserlingi Simon, 1890
+Tetragnatha mandibulata Walckenaer, 1841
+Tetragnatha paradisea Pocock, 1901
+Tetragnatha parvula Thorell, 1891
+Tetragnatha sutherlandi Gravely, 1921
+Tetragnatha viridorufa Gravely, 1921
+Mesida culta (O. Pickard-Cambridge, 1869)
+Tylorida striata (Thorell, 1877)
+Tylorida ventralis (Thorell, 1877)
+Annandaliella ernakulamensis Sunil Jose & Sebastian, 2008
+Annandaliella pectinifera Gravely, 1935
+Annandaliella travancorica Hirst, 1909
+Chilobrachys andersoni (Pocock, 1895)
+Chilobrachys assamensis Hirst, 1909
+Chilobrachys femoralis Pocock, 1900
+Chilobrachys fimbriatus Pocock, 1899
+Chilobrachys flavopilosus (Simon, 1884)
+Chilobrachys fumosus (Pocock, 1895)
+Chilobrachys hardwickei (Pocock, 1895)
+Chilobrachys himalayensis (Tikader, 1977)
+Chilobrachys khasiensis (Tikader, 1977)
+Chilobrachys stridulans (Wood Mason, 1877)
+Chilobrachys thorelli Pocock, 1900
+Haploclastus cervinus Simon, 1892
+Haploclastus kayi Gravely, 1915
+Haploclastus nilgirinus Pocock, 1899
+Haploclastus satyanus (Barman, 1978)
+Haploclastus tenebrosus Gravely, 1935
+Haploclastus validus (Pocock, 1899)
+Neoheterophrictus bhori (Gravely, 1915)
+Heterophrictus milleti Pocock, 1900
+Lyrognathus crotalus Pocock, 1895
+Lyrognathus saltator Pocock, 1900
+Neoheterophrictus crurofulvus Siliwal, Gupta & Raven, 2012
+Neoheterophrictus madraspatanus (Gravely, 1935)
+Neoheterophrictus sahyadri Siliwal, Gupta & Raven, 2012
+Neoheterophrictus uttarakannada Siliwal, Gupta & Raven, 2012
+Chilobrachys subarmatus (Thorell, 1891)
+Heterophrictus blatteri (Gravely, 1935)
+Sahydroaraneus collinus (Pocock, 1899)
+Plesiophrictus fabrei (Simon, 1892)
+Plesiophrictus linteatus (Simon, 1891)
+Plesiophrictus meghalayaensis Tikader, 1977
+Plesiophrictus millardi Pocock, 1899
+Plesiophrictus nilagiriensis Siliwal, Molur & Raven, 2007
+Sahydroaraneus raja (Gravely, 1915)
+Plesiophrictus sericeus Pocock, 1900
+Poecilotheria formosa Pocock, 1899
+Poecilotheria hanumavilasumica Smith, 2004
+Poecilotheria metallica Pocock, 1899
+Poecilotheria miranda Pocock, 1900
+Poecilotheria regalis Pocock, 1899
+Poecilotheria rufilata Pocock, 1899
+Poecilotheria striata Pocock, 1895
+Poecilotheria tigrinawesseli Smith, 2006
+Poecilotheria vittata Pocock, 1895
+Selenocosmia kulluensis Chamberlin, 1917
+Selenocosmia sutherlandi Gravely, 1935
+Thrigmopoeus insignis Pocock, 1899
+Thrigmopoeus truculentus Pocock, 1899
+Achaearanea budana Tikader, 1970
+Achaearanea diglipuriensis Tikader, 1977
+Achaearanea durgae Tikader, 1970
+Achaearanea triangularis Patel, 2005
+Argyrodes ambalikae Tikader, 1970
+Meotipa andamanensis (Tikader, 1977)
+Argyrodes argentatus O. Pickard-Cambridge, 1880
+Argyrodes bonadea (Karsch, 1881)
+Argyrodes chiriatapuensis Tikader, 1977
+Argyrodes cyrtophorae Tikader, 1963
+Argyrodes dipali Tikader, 1963
+Argyrodes fissifrons Thorell, 1891
+Argyrodes flavescens O. Pickard-Cambridge, 1880
+Argyrodes gazedes Tikader, 1970
+Argyrodes gazingensis Tikader, 1970
+Argyrodes gouri Tikader, 1963
+Argyrodes jamkhedes Tikader, 1963
+Argyrodes nephilae Taczanowski, 1873
+Argyrodes projeles Tikader, 1970
+Argyrodes scintillulanus O. Pickard-Cambridge, 1880
+Ariamnes pavesii Leardi, 1902
+Ariamnes simulans O. Pickard-Cambridge, 1892
+Chrysso angula (Tikader, 1970)
+Meotipa argyrodiformis (Yaginuma, 1952)
+Chikunia nigra (O. Pickard-Cambridge, 1880)
+Chrysso scintillans (Thorell, 1895)
+Coleosoma blandum O. Pickard-Cambridge, 1882
+Coleosoma floridanum Banks, 1900
+Cyllognatha surajbe Patel & Patel, 1972
+Dipoenura fimbriata Simon, 1909
+Emertonella taczanowskii (Keyserling, 1886)
+Enoplognatha diodonta Zhu & Zhang, 1992
+Episinus affinis Bösenberg & Strand, 1906
+Episinus pentagonalis Chakrabarti, 2013
+Euryopis episinoides (Walckenaer, 1847)
+Euryopis nubila Simon, 1889
+Faiditus xiphias (Thorell, 1887)
+Latrodectus elegans Thorell, 1898
+Latrodectus erythromelas Schmidt & Klaas, 1991
+Latrodectus geometricus C. L. Koch, 1841
+Latrodectus hasselti Thorell, 1870
+Meotipa picturata Simon, 1895
+Molione triacantha Thorell, 1892
+Moneta grandis Simon, 1905
+Nihonhimea brookesiana (Barrion & Litsinger, 1995)
+Parasteatoda celsabdomina (Zhu, 1998)
+Parasteatoda kompirensis (Bösenberg & Strand, 1906)
+Nihonhimea mundula (L. Koch, 1872)
+Parasteatoda oxymaculata (Zhu, 1998)
+Phoroncidia aculeata Westwood, 1835
+Phoroncidia maindroni (Simon, 1905)
+Phoroncidia septemaculeata O. Pickard-Cambridge, 1873
+Phoroncidia testudo (O. Pickard-Cambridge, 1873)
+Phycosoma martinae (Roberts, 1983)
+Phylloneta impressa (L. Koch, 1881)
+Propostira quadrangulata Simon, 1894
+Propostira ranii Bhattacharya, 1935
+Rhomphaea labiata (Zhu & Song, 1991)
+Rhomphaea projiciens O. Pickard-Cambridge, 1896
+Ruborridion musivum (Simon, 1873)
+Steatoda alboclathrata (Simon, 1897)
+Steatoda cingulata (Thorell, 1890)
+Steatoda rufoannulata (Simon, 1899)
+Theridion bengalensis Sen, Saha & Raychaudhuri, 2011
+Nihonhimea indica (Tikader, 1977)
+Theridion leucophaeum Simon, 1905
+Theridion maindroni Simon, 1905
+Theridion manjithar Tikader, 1970
+Theridion melanostictum O. Pickard-Cambridge, 1876
+Theridion nilgherinum Simon, 1905
+Theridion sadani Monga & Singh, 1989
+Theridion subvittatum Simon, 1889
+Nihonhimea tikaderi (Patel, 1973)
+Theridion zonulatum Thorell, 1890
+Theridula gonygaster (Simon, 1873)
+Theridula opulenta (Walckenaer, 1841)
+Thwaitesia dangensis Patel & Patel, 1972
+Thwaitesia margaritifera O. Pickard-Cambridge, 1881
+Tomoxena dives Simon, 1895
+Yaginumena maculosa (Yoshida & Ono, 2000)
+Wendilgarda assamensis Fage, 1924
+Amyciaea forticeps (O. Pickard-Cambridge, 1873)
+Angaeus pentagonalis Pocock, 1901
+Angaeus zhengi (Tang & Li, 2009)
+Bomis bengalensis Tikader, 1962
+Bomis calcuttaensis Biswas & Mazumder, 1981
+Bomis khajuriai Tikader, 1980
+Borboropactus bituberculatus Simon, 1884
+Borboropactus elephantus (Tikader, 1966)
+Camaricus bipunctatus Bastawade, 2002
+Camaricus formosus Thorell, 1887
+Camaricus khandalaensis Tikader, 1980
+Camaricus maugei (Walckenaer, 1837)
+Camaricus rinkae Biswas & Roy, 2005
+Camaricus siltorsus Saha & Raychaudhuri, 2007
+Demogenes andamanensis (Tikader, 1980)
+Diaea bengalensis Biswas & Mazumder, 1981
+Diaea pougneti Simon, 1885
+Diaea subdola O. Pickard-Cambridge, 1885
+Dietopsa castaneifrons (Simon, 1895)
+Dietopsa parnassia (Simon, 1895)
+Epidius longipalpis Thorell, 1877
+Epidius parvati Benjamin, 2000
+Henriksenia hilaris (Thorell, 1877)
+Holopelus malati Simon, 1895
+Indosmodicinus bengalensis Sen, Saha & Raychaudhuri, 2010
+Indoxysticus minutus (Tikader, 1960)
+Loxobates castetsi (Simon, 1906)
+Loxobates kapuri (Tikader, 1980)
+Lycopus trabeatus Simon, 1895
+Lysiteles brunettii (Tikader, 1962)
+Lysiteles catulus Simon, 1895
+Lysiteles excultus (O. Pickard-Cambridge, 1885)
+Lysiteles mandali (Tikader, 1966)
+Massuria roonwali (Basu, 1964)
+Massuria sreepanchamii (Tikader, 1962)
+Mastira menoka (Tikader, 1963)
+Mastira nicobarensis (Tikader, 1980)
+Misumena annapurna Tikader, 1963
+Misumena ganpatii Kumari & Mittal, 1994
+Misumena greenae Tikader, 1965
+Misumena indra Tikader, 1963
+Misumena mridulai Tikader, 1962
+Misumena ritujae Gajbe, 2008
+Misumenoides gwarighatensis Gajbe, 2004
+Misumenoides naginae Biswas & Roy, 2008
+Misumenops khandalaensis Tikader, 1965
+Monaeses israeliensis Levy, 1973
+Monaeses jabalpurensis Gajbe & Rane, 1992
+Monaeses mukundi Tikader, 1980
+Monaeses pachpediensis (Tikader, 1980)
+Monaeses parvati Tikader, 1963
+Oxytate chlorion (Simon, 1906)
+Oxytate elongata (Tikader, 1980)
+Oxytate greenae (Tikader, 1980)
+Oxytate kanishkai (Gajbe, 2008)
+Ozyptila amkhasensis Tikader, 1980
+Ozyptila chandosiensis Tikader, 1980
+Ozyptila jabalpurensis Bhandari & Gajbe, 2001
+Ozyptila khasi Tikader, 1961
+Ozyptila manii Tikader, 1961
+Ozyptila maratha Tikader, 1971
+Ozyptila reenae Basu, 1964
+Ozyptila theobaldi Simon, 1885
+Pagida salticiformis (O. Pickard-Cambridge, 1883)
+Pasias marathas Tikader, 1965
+Pasias puspagiri Tikader, 1963
+Phrynarachne ceylonica (O. Pickard-Cambridge, 1884)
+Phrynarachne peeliana (Stoliczka, 1869)
+Phrynarachne tuberosa (Blackwall, 1864)
+Pistius barchensis Basu, 1965
+Pistius bhadurii Basu, 1965
+Pistius gangulyi Basu, 1965
+Pistius kalimpus Tikader, 1970
+Pistius kanikae Basu, 1964
+Pistius robustus Basu, 1965
+Pistius tikaderi Kumari & Mittal, 1999
+Platythomisus sudeepi Biswas, 1977
+Epidius armatus (Thorell, 1895)
+Runcinia bifrons (Simon, 1895)
+Runcinia escheri Reimoser, 1934
+Runcinia ghorpadei Tikader, 1980
+Runcinia khandari Gajbe, 2004
+Runcinia kinbergi Thorell, 1891
+Runcinia roonwali Tikader, 1965
+Runcinia sitadongri Gajbe, 2004
+Runcinia spinulosa (O. Pickard-Cambridge, 1885)
+Runcinia yogeshi Gajbe & Gajbe, 2001
+Stiphropus duriusculus (Simon, 1885)
+Stiphropus sangayus Barrion & Litsinger, 1995
+Stiphropus soureni Sen, 1964
+Strigoplus bilobus Saha & Raychaudhuri, 2004
+Strigoplus moluri Patel, 2003
+Strigoplus netravati Tikader, 1963
+Synema decoratum Tikader, 1960
+Synema mysorense Tikader, 1980
+Synema revolutum Tang & Li, 2010
+Tharpyna himachalensis Tikader & Biswas, 1979
+Tharpyna indica Tikader & Biswas, 1979
+Thomisus andamanensis Tikader, 1980
+Thomisus armillatus (Thorell, 1891)
+Thomisus ashishi Gajbe, 2005
+Thomisus baghdeoi Gajbe, 2004
+Thomisus bargi Gajbe, 2004
+Thomisus beautifularis Basu, 1965
+Thomisus bulani Tikader, 1960
+Thomisus danieli Gajbe, 2004
+Thomisus daradioides Simon, 1890
+Thomisus dhakuriensis Tikader, 1960
+Thomisus dhananjayi Gajbe, 2005
+Thomisus dyali Kumari & Mittal, 1997
+Thomisus elongatus Stoliczka, 1869
+Thomisus godavariae Reddy & Patel, 1992
+Thomisus granulifrons Simon, 1906
+Thomisus katrajghatus Tikader, 1963
+Thomisus keralae Biswas & Roy, 2005
+Thomisus kokiwadai Gajbe, 2004
+Thomisus krishnae Reddy & Patel, 1992
+Thomisus leucaspis Simon, 1906
+Thomisus lobosus Tikader, 1965
+Thomisus ludhianaensis Kumari & Mittal, 1997
+Thomisus manishae Gajbe, 2005
+Thomisus manjuae Gajbe, 2005
+Thomisus meenae Gajbe, 2005
+Thomisus mimae Sen & Basu, 1963
+Thomisus nirmali Saha & Raychaudhuri, 2007
+Thomisus pateli Gajbe, 2004
+Thomisus pathaki Gajbe, 2004
+Thomisus pooneus Tikader, 1965
+Thomisus pritiae Gajbe, 2005
+Thomisus projectus Tikader, 1960
+Thomisus pugilis Stoliczka, 1869
+Thomisus rajani Bhandari & Gajbe, 2001
+Thomisus rigoratus Simon, 1906
+Thomisus rishus Tikader, 1970
+Thomisus shillongensis Sen, 1963
+Thomisus shivajiensis Tikader, 1965
+Thomisus sikkimensis Tikader, 1962
+Thomisus simoni Gajbe, 2004
+Thomisus sorajaii Basu, 1963
+Thomisus spectabilis Doleschall, 1859
+Thomisus sundari Gajbe & Gajbe, 2001
+Thomisus unidentatus Dippenaar-Schoeman & van Harten, 2007
+Thomisus viveki Gajbe, 2004
+Thomisus whitakeri Gajbe, 2004
+Tmarus dejectus (O. Pickard-Cambridge, 1885)
+Tmarus fasciolatus Simon, 1906
+Tmarus jabalpurensis Gajbe & Gajbe, 1999
+Tmarus kotigeharus Tikader, 1963
+Tmarus soricinus Simon, 1906
+Tmarus srisailamensis Rao, Bastawade, Javed & Krishna, 2006
+Xysticus bengalensis Tikader & Biswas, 1974
+Xysticus bengdakus Saha & Raychaudhuri, 2007
+Xysticus bharatae Gajbe & Gajbe, 1999
+Xysticus breviceps O. Pickard-Cambridge, 1885
+Xysticus croceus Fox, 1937
+Xysticus himalayaensis Tikader & Biswas, 1974
+Xysticus hindusthanicus Basu, 1965
+Xysticus jabalpurensis Gajbe & Gajbe, 1999
+Xysticus jaharai Basu, 1979
+Xysticus joyantius Tikader, 1966
+Xysticus kali Tikader & Biswas, 1974
+Xysticus kamakhyai Tikader, 1962
+Xysticus kashidi Tikader, 1963
+Xysticus khasiensis Tikader, 1980
+Xysticus pynurus Tikader, 1968
+Xysticus roonwali Tikader, 1964
+Psammitis setiger (O. Pickard-Cambridge, 1885)
+Xysticus shillongensis Tikader, 1962
+Xysticus shyamrupus Tikader, 1966
+Xysticus sikkimus Tikader, 1970
+Xysticus tikaderi Bhandari & Gajbe, 2001
+Xysticus viveki Gajbe, 2005
+Xysticus yogeshi Gajbe, 2005
+Anuvinda escheri (Reimoser, 1934)
+Pandava andhraca (Patel & Reddy, 1990)
+Pandava ganesha Almeida-Silva, Griswold & Brescovit, 2010
+Pandava ganga Almeida-Silva, Griswold & Brescovit, 2010
+Pandava kama Almeida-Silva, Griswold & Brescovit, 2010
+Pandava laminata (Thorell, 1878)
+Pandava nathabhaii (Patel & Patel, 1975)
+Pandava shiva Almeida-Silva, Griswold & Brescovit, 2010
+Titanoeca sharmai (Bastawade, 2008)
+Plator himalayaensis Tikader & Gajbe, 1976
+Plator indicus Simon, 1897
+Plator kashmirensis Tikader & Gajbe, 1973
+Plator pandeae Tikader, 1969
+Plator solanensis Tikader & Gajbe, 1976
+Hyptiotes affinis Bösenberg & Strand, 1906
+Hyptiotes himalayensis Tikader, 1981
+Hyptiotes indicus Simon, 1905
+Miagrammopes albomaculatus Thorell, 1891
+Miagrammopes extensus Simon, 1889
+Miagrammopes gravelyi Tikader, 1971
+Miagrammopes indicus Tikader, 1971
+Miagrammopes kirkeensis Tikader, 1971
+Miagrammopes poonaensis Tikader, 1971
+Miagrammopes sexpunctatus Simon, 1906
+Miagrammopes sutherlandi Tikader, 1971
+Miagrammopes thwaitesi O. Pickard-Cambridge, 1870
+Philoponella hilaris (Simon, 1906)
+Uloborus bigibbosus Simon, 1905
+Uloborus danolius Tikader, 1969
+Uloborus ferokus Bradoo, 1979
+Uloborus filifaciens Hingston, 1927
+Uloborus furunculus Simon, 1906
+Uloborus jabalpurensis Bhandari & Gajbe, 2001
+Uloborus khasiensis Tikader, 1969
+Uloborus krishnae Tikader, 1970
+Uloborus modestus Thorell, 1891
+Zosis geniculata (Olivier, 1789)
+Asceua cingulata (Simon, 1905)
+Cryptothele collina Pocock, 1901
+Cydrela escheri (Reimoser, 1934)
+Cydrela nitidiceps (Simon, 1905)
+Cydrela stillata (Simon, 1905)
+Hermippus arjuna (Gravely, 1921)
+Hermippus cruciatus Simon, 1905
+Tropizodium bengalensis (Tikader & Patel, 1975)
+Zodarion deccanensis (Tikader & Malhotra, 1976)
+Tropizodium kovvurensis (Reddy & Patel, 1993)
+Tropizodium poonaensis (Tikader, 1981)
+Mallinella nilgherina (Simon, 1906)
+Mallinella redimita (Simon, 1905)
+Laminion arakuense (Patel & Reddy, 1989)
+Laminion birenifer (Gravely, 1921)
+Laminion debasrae (Biswas & Biswas, 1992)
+Mallinella dibangensis (Biswas & Biswas, 2006)
+Laminion gujaratense (Tikader & Patel, 1975)
+Mallinella indica (Tikader & Patel, 1975)
+Storenomorpha joyaus (Tikader, 1970)
+Suffasia keralaensis Sudhikumar, Jocqué & Sebastian, 2009
+Suffasia tigrina (Simon, 1893)
+Hasarius kjellerupi Thorell, 1891
+Myrmarachne prava (Karsch, 1880)
+Myrmarachne pumilio (Karsch, 1880)
+Dictyna chandrai Tikader, 1966
+Mimetus tikaderi Gajbe, 1992
+Cheiracanthium andamanense (Tikader, 1977)
+Cheiracanthium sadanai Tikader, 1976
+Myrmarachne providens (G. W. Peckham & E. G. Peckham, 1892)
+Dysderoides synrang Grismado & Deeleman, 2014
+Trilacuna meghalaya Grismado & Piacentini, 2014
+Trilacuna besucheti Grismado & Piacentini, 2014
+Trilacuna loebli Grismado & Piacentini, 2014
+Trilacuna mahanadi Grismado & Piacentini, 2014
+Trilacuna bangla Grismado & Ramírez, 2014
+Himalayana andreae Grismado, 2014
+Himalayana siliwalae Grismado, 2014
+Atypus wii Siliwal, Kumar & Raven, 2014
+Eupoa lehtineni Logunov & Marusik, 2014
+Heterophrictus raveni Mirza & Sanap, 2014
+Heterophrictus aareyensis Mirza & Sanap, 2014
+Neoheterophrictus smithi Mirza, Bhosale & Sanap, 2014
+Neoheterophrictus amboli Mirza & Sanap, 2014
+Sahydroaraneus hirsti Mirza & Sanap, 2014
+Haploclastus devamatha Prasanth & Sunil Jose, 2014
+Glenognatha ganeshi (Bodkhe, Manthen & Tanikawa, 2014)
+Icius alboterminus (Caleb, 2014)
+Ovia quinquedens (Dhali, Roy, Sen, Saha & Raychaudhuri, 2012)
+Hyllus manu Caleb, Christudhas, Laltanpuii & Chitra, 2014
+Oxyopes gorumaraensis Sen, Saha & Raychaudhuri, 2011
+Phintelloides jesudasi (Caleb & Mathai, 2014)
+Stenaelurillus sarojinae Caleb & Mathai, 2014
+Xyphinus baehrae Kranz-Baltensperger, 2014
+Hermippus globosus Sankaran, Jobi, Joseph & Sebastian, 2014
+Hermippus inflexus Sankaran, Jobi, Joseph & Sebastian, 2014
+Hermippus gavi Sankaran, Jobi, Joseph & Sebastian, 2014
+Lysania prolixa Malamel, Sankaran, Joseph & Sebastian, 2015
+Harmochirus exaggeratus Caleb & Mathai, 2015
+Wadicosa prasantae Ahmed, Anam, Saikia, Manthen & Saikia, 2014
+Oxyopes fabae Dhali, Saha & Raychaudhuri, 2015
+Chorizopes quadrituberculata Roy, Sen, Saha & Raychaudhuri, 2014
+Martensopoda sanctor Sankaran, Malamel, Joseph & Sebastian, 2015
+Stenaelurillus albus Sebastian, Sankaran, Malamel & Joseph, 2015
+Damarchilus nigricus Siliwal, Molur & Raven, 2015
+Damarchilus rufus Siliwal, Molur & Raven, 2015
+Langona albolinea Caleb & Mathai, 2015
+Langona davidi (Caleb, Mungkung & Mathai, 2015)
+Phanuelus gladstone Caleb & Mathai, 2015
+Phlegra prasanna Caleb & Mathai, 2015
+Thomisus telanganaensis Pravalikha & Srinivasulu, 2015
+Conothele giganticus Siliwal & Raven, 2015
+Conothele khunthokhanbi Kananbala, Bhubaneshwari & Siliwal, 2015
+Castianeira furva Sankaran, Malamel, Joseph & Sebastian, 2015
+Dictis ganeshi Keswani, 2015
+Stemmops satpudaensis Rajoria, 2015
+Dolichognatha lonarensis Bodkhe & Manthen, 2015
+Peucetia phantasma Ahmed, Satam, Khalap & Mohan, 2015
+Dictis mumbaiensis Ahmed, Satam, Khalap & Mohan, 2015
+Stenaelurillus jagannathae Das, Malik & Vidhel, 2015
+Indopadilla insularis (Malamel, Sankaran & Sebastian, 2015)
+Heligmomerus maximus Sanap & Mirza, 2015
+Himalmartensus nandadevi Quasin, Siliwal & Uniyal, 2015
+Oedothorax cornutus Tanasevitch, 2015
+Oedothorax cunur Tanasevitch, 2015
+Oedothorax falciferoides Tanasevitch, 2015
+Oedothorax kodaikanal Tanasevitch, 2015
+Oedothorax lopchu Tanasevitch, 2015
+Oedothorax meghalaya Tanasevitch, 2015
+Oedothorax paracymbialis Tanasevitch, 2015
+Oedothorax rusticus Tanasevitch, 2015
+Oedothorax stylus Tanasevitch, 2015
+Oedothorax uncus Tanasevitch, 2015
+Oedothorax villosus Tanasevitch, 2015
+Miagrammopes apostrophus Sen, Saha & Raychaudhuri, 2013
+Yaginumaella aishwaryi Sunil Jose, 2013
+Massuria uthoracica Sen, Saha & Raychaudhuri, 2012
+Misumena mickeyi Sen, Saha & Raychaudhuri, 2012
+Pharta indica Sen, Saha & Raychaudhuri, 2012
+Oxyopes linearis Sen, Dhali, Saha & Raychaudhuri, 2015
+Pholcus viveki Sen, Dhali, Saha & Raychaudhuri, 2015
+Suffasia ala Sen, Dhali, Saha & Raychaudhuri, 2015
+Araneus varpunen Sen, Dhali, Saha & Raychaudhuri, 2015
+Phintelloides undulatus (Caleb & Karthikeyani, 2015)
+Gibbaranea indiana Roy, Saha & Raychaudhuri, 2015
+Tropizodium kalami Prajapati, Murthappa, Sankaran & Sebastian, 2016
+Tropizodium viridurbium Prajapati, Murthappa, Sankaran & Sebastian, 2016
+Paraplectana rajashree Ahmed, Sumukha, Khalap, Mohan & Jadhav, 2015
+Thelcticopis kirankhalapi Ahmed, Sumukha, Khalap, Mohan & Jadhav, 2015
+Cyrtarachne sunjoymongai Ahmed, Sumukha, Khalap, Mohan & Jadhav, 2015
+Miagrammopes satpudaensis Rajoria, 2015
+Shearella alii Sankaran & Sebastian, 2016
+Pseudopoda ashcharya Jäger & Kulkarni, 2016
+Stenaelurillus metallicus Caleb & Mathai, 2016
+Cambalida deorsa Murthappa, Prajapati, Sankaran & Sebastian, 2016
+Cambalida tuma Murthappa, Prajapati, Sankaran & Sebastian, 2016
+Tigidia konkanensis Mirza, Zende & Patil, 2016
+Clubiona denticulata Dhali, Roy, Saha & Raychaudhuri, 2016
+Clubiona tridentata Dhali, Roy, Saha & Raychaudhuri, 2016
+Clubiona pila Dhali, Roy, Saha & Raychaudhuri, 2016
+Clubiona bilobata Dhali, Roy, Saha & Raychaudhuri, 2016
+Clubiona pseudocordata Dhali, Roy, Saha & Raychaudhuri, 2016
+Bristowia gandhii Kanesharatnam & Benjamin, 2016
+Stenaelurillus gabrieli Prajapati, Murthappa, Sankaran & Sebastian, 2016
+Bathippus brevipalpis (Roy, Saha & Raychaudhuri, 2016)
+Oedothorax paralegrandi Tanasevitch, 2016
+Cambalida dhupgadensis Bodkhe, Uniyal & Kamble, 2016
+Hypsosinga satpuraensis Bodkhe, Uniyal & Kamble, 2016
+Eriovixia gryffindori Ahmed, Khalap & Sumukha, 2016
+Clubiona hexadentata Dhali, Roy, Saha & Raychaudhuri, 2016
+Cyrtophora bituberculata Roy, Saha & Raychaudhuri, 2017
+Hamataliwa hellia Dhali, Saha & Raychaudhuri, 2017
+Epidius longimanus Benjamin, 2017
+Epidius mahavira Benjamin, 2017
+Macrothele alyrata (Mirza, Sanap & Kunte, 2017)
+Draconarius joshimath Quasin, Siliwal & Uniyal, 2017
+Pandava aruni Bodkhe, Uniyal, Kamble, Manthen, Santape & Chikhale, 2017
+Cyclosa vankhedensis Dhande, Bodkhe & Ahmad, 2017
+Paratus perus Sankaran, Malamel, Joseph & Sebastian, 2017
+Meotipa sahyadri Kulkarni, Vartak, Deshpande & Halali, 2017
+Wadicosa ghatica Kronestedt, 2017
+Langelurillus lacteus Sanap, Joglekar & Caleb, 2017
+Langelurillus onyx Caleb, Sanap, Joglekar & Prajapati, 2017
+Oedothorax khasi Tanasevitch, 2017
+Meotipa multuma Murthappa, Malamel, Prajapati, Sebastian & Venkateshwarlu, 2017
+Hindumanes wayanadensis Sudhin, Nafin & Sudhikumar, 2017
+Tylorida flava Sankaran, Malamel, Joseph & Sebastian, 2017
+Atelidea nona Sankaran, Malamel, Joseph & Sebastian, 2017
+Ariadna vansda Siliwal, Yadav & Kumar, 2017
+Ariadna molur Siliwal & Yadav, 2017
+Ariadna chhotae Siliwal & Yadav, 2017
+Anaxibia folia Sankaran & Sebastian, 2017
+Synagelides munnar Logunov, 2017
+Icius kumariae Caleb, 2017
+Epocilla sirohi Caleb, Chatterjee, Tyagi, Kundu & Kumar, 2017
+Mogrus rajasthanensis Caleb, Chatterjee, Tyagi, Kundu & Kumar, 2017
+Africactenus unumus Sankaran & Sebastian, 2018
+Trachelas chamoli Quasin, Siliwal & Uniyal, 2018
+Nasoona indianа Tanasevitch, 2018
+Nasoona orissa Tanasevitch, 2018
+Wolongia papafrancisi Malamel, Nafin, Sankaran & Sebastian, 2018
+Pellenes iva Caleb, 2018
+Sahydroaraneus sebastiani Sunil Jose, 2017
+Brancus calebi Kanesharatnam & Benjamin, 2018
+Orientattus aurantius (Kanesharatnam & Benjamin, 2018)
+Hitobia procula Sankaran & Sebastian, 2018
+Synaphosus iunctus Sankaran & Sebastian, 2018
+Urozelotes patulusus Sankaran & Sebastian, 2018
+Gravelyia striatus Mirza & Mondal, 2018
+Colyttus proszynskii Caleb, Chatterjee, Tyagi, Kundu & Kumar, 2018
+Synagelides brahmaputra Caleb, Chatterjee, Tyagi, Kundu & Kumar, 2018
+Nandicius vallisflorum Caleb, Sajan & Kumar, 2018
+Pellenes himalaya Caleb, Sajan & Kumar, 2018
+Megaeupoa gravelyi (Caleb, 2018)
+Erigone jammu Tanasevitch, 2018
+Pseudopoda cheppe Caleb, 2018
+Icius vikrambatrai Prajapati, Malamel, Sudhikumar & Sebastian, 2018
+Habrocestum longispinum Sankaran, Malamel, Joseph & Sebastian, 2019
+Althepus devraii Kulkarni & Dupérré, 2019
+Neaetha tomkovichi Logunov, 2019
+Jerzego sunillimaye Sanap, Caleb & Joglekar, 2019
+Cocalus lacinia Sudhin, Nafin, Sumesh & Sudhikumar, 2019
+Eriovixia kachugaonensis P. Basumatary, Chanda, Das, Kalita, Brahma, T. Basumatary, B. K. Basumatary & Daimary, 2019
+Euryeidon katapagai Talwar, Majagi, Bodkhe & Kamble, 2018
+Euryeidon jatashankarae Talwar, Majagi, Bodkhe & Kamble, 2018
+Platythomisus xiandao Lin & Li, 2019
+Pancorius nagaland Caleb, 2019
+Epeus triangulopalpis Malamel, Nafin, Sudhikumar & Sebastian, 2019
+Piranthus planolancis Malamel, Nafin, Sudhikumar & Sebastian, 2019
+Meotipa ultapani Basumatary & Brahma, 2019
+Indomarengo chavarapater Malamel, Prajapati, Sudhikumar & Sebastian, 2019
+Marengo sachintendulkar Malamel, Prajapati, Sudhikumar & Sebastian, 2019
+Marengo zebra Sudhin, Nafin, Benjamin & Sudhikumar, 2019
+Marengo batheryensis Sudhin, Nafin, Benjamin & Sudhikumar, 2019
+Paraplectana mamoniae Basumatary & Brahma, 2019
+Idiops nilagiri Das & Diksha, 2019
+Theridion odisha Prasad, Tyagi, Caleb & Kumar, 2019
+Indopadilla darjeeling Caleb & Sankaran, 2019
+Phlegra abhinandanvarthamani Prajapati, 2019
+Neoheterophrictus chimminiensis Sunil Jose, 2020
+Araniella villanii Zamani, Marusik & Šestáková, 2020
+Carrhotus andhra Caleb, 2020
+Carrhotus assam Caleb, 2020
+Carrhotus silanthi Caleb, 2020
+Oedothorax unciger Tanasevitch, 2020
+Oedothorax sohra Tanasevitch, 2020
+Phintelloides manipur Caleb, 2020
+Vailimia ajmerensis Caleb & Jangid, 2020
+Vailimia jharbari Basumatary, Caleb & Das, 2020
+Sinopoda assamensis Grall & Jäger, 2020
+Colaxes sazailus Paul, Prajapati, Joseph & Sebastian, 2020
+Glenognatha paullula Sankaran, Caleb & Sebastian, 2020
+Oxyopes haryanaensis Goyal & Malik, 2020
+Heligmomerus wii Siliwal, Hippargi, Yadav & Kumar, 2020
+Idiops bonny Siliwal, Hippargi, Yadav & Kumar, 2020
+Idiops reshma Siliwal, Hippargi, Yadav & Kumar, 2020
+Idiops sally Siliwal, Hippargi, Yadav & Kumar, 2020
+Idiops vankhede Siliwal, Hippargi, Yadav & Kumar, 2020
+Araniella levii Zamani & Marusik, 2020
+Araniella maasdorpi Zamani & Marusik, 2020
+Uroballus nazirwanii Prajapati, Malamel & Sebastian, 2020
+Idiops medini Pratihar & Das, 2020
+Indopadilla kodagura Maddison, 2020
+Maripanthus jubatus Maddison, 2020
+Chinattus prabodhi Basumatary, Das, Caleb & Brahma, 2020
+Stenaelurillus indicus Logunov, 2020
+Stenaelurillus tettu Logunov, 2020
+Stenaelurillus wandae Logunov, 2020
+Indoseges malkangiri Choudhury, Siliwal, Das & Giroti, 2021
+Indoseges sushildutta Siliwal, Das, Choudhury, & Giroti, 2021
+Indoseges chilika Siliwal, Das, Choudhury & Giroti, 2021
+Indoseges narayani Choudhury, Siliwal, Das & Giroti, 2021
+Indoseges satkosia Das, Siliwal, Choudhury & Giroti, 2021
+Maripanthus gloria Caleb, 2021
+Colopsus cinereus Kanesharatnam & Benjamin, 2021
+Pimoa gagna Zhang & Li, 2021
+Pimoa nainital Zhang & Li, 2021
+Pimoa shoja Zhang & Li, 2021
+Phintella cholkei Prajapati, Kumbhar, Caleb, Sanap & Kamboj, 2021
+Icius tukarami Prajapati, Kumbhar, Caleb, Sanap & Kamboj, 2021
+Gravelyia boro Basumatary & Brahma, 2021
+Oxyopes scapeus Sen & Sureshan, 2021
+Oxyopes dinendrai Sen & Sureshan, 2021
+Conothele chinnarensis Sunil Jose, 2021
+Gaviphosa kera Sankaran, 2021
+Carrhotus spiridonovi Logunov, 2021
+Oedothorax veloorensis Domichan & Sunil Jose, 2021
+Oedothorax cheruthoniensis Domichan & Sunil Jose, 2021
+Afraflacilla banni Prajapati, Tatu & Kamboj, 2021
+Uloborus shendurneyensis Asima, Sudhikumar & Prasad, 2021
+Agelena barunae
+Agelena gautami
+Agelena inda
+Agelena oaklandensis
+Agelena satmila
+Agelena shillongensis
+Tamgrinia alveolifera
+Tegenaria comstocki
+Tegenaria hemanginiae
+Tegenaria shillongensis
+Amaurobius jugorum
+Anyphaena soricina
+Acusilas coccineus
+Anepsion maritatum
+Arachnura angura
+Arachnura melanura
+Araneus anantnagensis
+Araneus bastarensis
+Araneus bilunifer
+Araneus boerneri
+Araneus camilla
+Araneus decentellus
+Araneus ellipticus
+Neoscona enucleata
+Araneus fulvellus
+Araneus himalayanus
+Araneus hirsutulus
+Araneus liber
+Araneus minutalis
+Araneus mitificus
+Araniella nympha
+Araneus pahalgaonensis
+Araneus panchganiensis
+Araneus sponsus
+Araneus tubabdominus
+Araneus viridisomus
+Argiope aemula
+Argiope anasuja
+Argiope caesarea
+Argiope catenulata
+Argiope lobata
+Argiope macrochoera
+Argiope pulchella
+Caerostris sumatrana
+Cercidia punctigera
+Chorizopes anjanes
+Chorizopes calciope
+Chorizopes congener
+Chorizopes frontalis
+Chorizopes kastoni
+Chorizopes khandaricus
+Chorizopes khanjanes
+Chorizopes khedaensis
+Chorizopes pateli
+Chorizopes stoliczkae
+Chorizopes tikaderi
+Cyclosa albisternis
+Cyclosa bifida
+Cyclosa bilobata
+Cyclosa centrodes
+Cyclosa confraga
+Cyclosa gossypiata
+Cyclosa hexatuberculata
+Cyclosa insulana
+Cyclosa krusa
+Cyclosa micula
+Cyclosa moonduensis
+Cyclosa neilensis
+Cyclosa oatesi
+Cyclosa purnai
+Cyclosa quinqueguttata
+Cyclosa simoni
+Cyclosa spirifera
+Cyclosa tuberascens
+Cyrtarachne avimerdaria
+Cyrtarachne bengalensis
+Cyrtarachne biswamoyi
+Paraplectana gravelyi
+Cyrtarachne inaequalis
+Cyrtarachne invenusta
+Cyrtarachne nagasakiensis
+Cyrtarachne promilai
+Cyrtarachne raniceps
+Cyrtarachne schmidi
+Cyrtarachne sundari
+Cyrtophora bidenta
+Cyrtophora citricola
+Cyrtophora feae
+Cyrtophora jabalpurensis
+Cyrtophora ksudra
+Cyrtophora moluccensis
+Cyrtophora unicolor
+Eriovixia excelsa
+Eriovixia laglaizei
+Eriovixia palawanensis
+Eriovixia patulisus
+Eriovixia poonaensis
+Eriovixia sakiedaorum
+Gasteracantha dalyi
+Gasteracantha diadesmia
+Gasteracantha diardi
+Gasteracantha frontata
+Gasteracantha geminata
+Macracantha hasselti
+Gasteracantha kuhli
+Gasteracantha remifera
+Gasteracantha sororna
+Gasteracantha taeniata
+Gasteracantha unguifera
+Gea spinipes
+Gea subarmata
+Gea zaragosa
+Gibbaranea bituberculata
+Larinia bharatae
+Larinia chloris
+Larinia emertoni
+Larinia jaysankari
+Larinia kanpurae
+Larinia mandlaensis
+Larinia phthisica
+Larinia teiraensis
+Larinia tyloridia
+Lipocrea epeiroides
+Lipocrea fusiformis
+Macracantha arcuata
+Neogea nocticolor
+Neoscona achine
+Neoscona bengalensis
+Neoscona bihumpi
+Neoscona biswasi
+Neoscona bomdilaensis
+Neoscona chrysanthusi
+Neoscona dhruvai
+Neoscona dhumani
+Neoscona dyali
+Neoscona molemensis
+Neoscona mukerjei
+Neoscona murthyi
+Neoscona odites
+Neoscona parambikulamensis
+Neoscona pavida
+Neoscona platnicki
+Neoscona punctigera
+Neoscona raydakensis
+Neoscona sanghi
+Neoscona sanjivani
+Neoscona shillongensis
+Neoscona sinhagadensis
+Neoscona theisi
+Neoscona ujavalai
+Neoscona usbonga
+Neoscona yptinika
+Ordgarius hexaspinus
+Ordgarius hobsoni
+Ordgarius sexspinosus
+Parawixia dehaani
+Pasilobus kotigeharus
+Plebs himalayaensis
+Plebs mitratus
+Poltys bhabanii
+Poltys bhavnagarensis
+Poltys columnaris
+Poltys godrejii
+Poltys nagpurensis
+Poltys pogonias
+Poltys rehmanii
+Porcataraneus bengalensis
+Prasonica insolens
+Singa chota
+Singa haddooensis
+Singa myrrhea
+Zilla globosa
+Atypus sutherlandi
+Diplothele gravelyi
+Diplothele tenebrosus
+Diplothele walshi
+Sason andamanicum
+Sason rameshwaram
+Sason robustum
+Sasonichus sullivani
+Sipalolasma arthrapophysis
+Tigidia nilgiriensis
+Tigidia rutilofronis
+Tigidia sahyadri
+Cithaeron indicus
+Cithaeron praedonius
+Inthaeron rossi
+Clubiona acanthocnemis
+Clubiona analis
+Clubiona bengalensis
+Clubiona boxaensis
+Clubiona chakrabartei
+Clubiona deletrix
+Clubiona drassodes
+Clubiona filicata
+Clubiona hysgina
+Clubiona ludhianaensis
+Clubiona nicobarensis
+Clubiona nilgherina
+Clubiona pogonias
+Clubiona rama
+Clubiona shillongensis
+Clubiona submaculata
+Clubiona tikaderi
+Matidia incurvata
+Simalio aurobindoi
+Simalio biswasi
+Simalio castaneiceps
+Simalio percomis
+Aetius decollatus
+Apochinomma dolosum
+Apochinomma nitidum
+Oedignatha adhartali
+Cambalida flavipes
+Oedignatha indica
+Castianeira quadrimaculata
+Castianeira tinae
+Castianeira zetes
+Coenoptychus pulcher
+Corinnomma comulatum
+Corinnomma rufofuscum
+Corinnomma severum
+Echinax panache
+Oedignatha albofasciata
+Oedignatha andamanensis
+Oedignatha binoyii
+Oedignatha carli
+Oedignatha dentifera
+Oedignatha escheri
+Oedignatha lesserti
+Oedignatha microscutata
+Oedignatha poonaensis
+Oedignatha procerula
+Oedignatha raigadensis
+Oedignatha scrobiculata
+Oedignatha shillongensis
+Oedignatha tricuspidata
+Oedignatha uncata
+Orthobula impressa
+Trachelas costatus
+Trachelas himalayensis
+Trachelas oreophilus
+Utivarachna fronto
+Acantheis indicus
+Amauropelma beyersdorfi
+Amauropelma ekeftys
+Amauropelma staschi
+Anahita smythiesi
+Ctenus andamanensis
+Ctenus bomdilaensis
+Ctenus cochinensis
+Ctenus dangsus
+Ctenus goaensis
+Ctenus himalayensis
+Ctenus indicus
+Ctenus kapuri
+Ctenus meghalayaensis
+Ctenus narashinhai
+Ctenus sikkimensis
+Ctenus tuniensis
+Conothele vali
+Conothele varvarti
+Latouchia cryptica
+Asianopis goalparaensis
+Asianopis liukuensis
+Desis gardineri
+Desis inermis
+Ajmonia velifera
+Anaxibia rebai
+Nigma albida
+Dictyna turbida
+Dictyna umai
+Ajmonia bedeshai
+Ajmonia marakata
+Himalmartensus mussooriensis
+Nigma shiprai
+Sudesna grossa
+Indothele dumicola
+Indothele mala
+Indothele rothi
+Ischnothele indicola
+Stegodyphus hisarensis
+Stegodyphus mirandus
+Stegodyphus pacificus
+Stegodyphus sarasinorum
+Stegodyphus tibialis
+Pholcoides chiardolae
+Pritha napadensis
+Zaitunia rufa
+Pholcoides seclusa
+Pritha dharmakumarsinhjii
+Pritha insularis
+Pritha nana
+Pritha nicobarensis
+Pritha poonaensis
+Sahastata ashapuriae
+Coillina yogeshi
+Callilepis chakanensis
+Callilepis ketani
+Callilepis lambai
+Callilepis pawani
+Callilepis rajani
+Callilepis rajasthanica
+Callilepis rukminiae
+Camillina smythiesi
+Drassodes andamanensis
+Drassodes astrologus
+Drassodes cambridgei
+Drassodes carinivulvus
+Drassodes cerinus
+Drassodes clavifemur
+Drassodes delicatus
+Drassodes deoprayagensis
+Drassodes gangeticus
+Drassodes gujaratensis
+Drassodes heterophthalmus
+Drassodes himalayensis
+Echemus interemptor
+Coreodrassus interlisus
+Drassodes involutus
+Drassodes luridus
+Drassodes macilentus
+Drassodes meghalayaensis
+Drassodes narayanpurensis
+Drassodes parvidens
+Drassodes pashanensis
+Drassodes rubicundulus
+Drassodes sagarensis
+Drassodes singulariformis
+Drassodes sirmourensis
+Drassodes sitae
+Drassodes tikaderi
+Drassodes viveki
+Cryptodrassus khajuriai
+Cryptodrassus mahabalei
+Cryptodrassus platnicki
+Cryptodrassus ratnagiriensis
+Echemus chaperi
+Echemus viveki
+Eilica kandarpae
+Eilica platnicki
+Eilica songadhensis
+Eilica tikaderi
+Gnaphosa dege
+Gnaphosa jodhpurensis
+Gnaphosa kailana
+Gnaphosa kankhalae
+Gnaphosa pauriensis
+Gnaphosa poonaensis
+Gnaphosa rohtakensis
+Haplodrassus ambalaensis
+Haplodrassus bengalensis
+Haplodrassus chotanagpurensis
+Haplodrassus dumdumensis
+Haplodrassus jacobi
+Haplodrassus sataraensis
+Haplodrassus tehriensis
+Zelotes calcuttaensis
+Scotophaeus goaensis
+Heser vijayanagara
+Ladissa inda
+Ladissa latecingulata
+Megamyrmaekion caudatum
+Poecilochroa jodhpurensis
+Micaria dives
+Micaria faltana
+Micaria pulcherrima
+Setaphis solanensis
+Setaphis tikaderi
+Nomisia harpax
+Drassodes haribhaiius
+Synaphosus parvus
+Poecilochroa poonaensis
+Poecilochroa barmani
+Poecilochroa behni
+Poecilochroa devendrai
+Poecilochroa sedula
+Poecilochroa tikaderi
+Poecilochroa tridotus
+Pterotricha strandi
+Poecilochroa kuljitae
+Megamyrmaekion pritiae
+Megamyrmaekion tikaderi
+Scotophaeus bharatae
+Drassodes dispulsus
+Scotophaeus domesticus
+Drassodes invisus
+Scotophaeus kalimpongensis
+Scotophaeus madalasae
+Scotophaeus merkaricola
+Scotophaeus poonaensis
+Scotophaeus rajasthanus
+Scotophaeus simlaensis
+Poecilochroa khodiar
+Hitobia lamhetaghatensis
+Hitobia meghalayensis
+Hitobia poonaensis
+Hitobia singhi
+Setaphis browni
+Setaphis subtilis
+Sphingius dherikanalensis
+Sphingius nainitalensis
+Urozelotes pawani
+Sphingius solanensis
+Talanites tibialis
+Marinarozelotes jaxartensis
+Zelotes ashae
+Zelotes baltoroi
+Zelotes bharatae
+Zelotes chandosiensis
+Zelotes choubeyi
+Zelotes desioi
+Zelotes hospitus
+Zelotes jabalpurensis
+Zelotes kusumae
+Zelotes maindroni
+Zelotes mandae
+Zelotes mandlaensis
+Zelotes nainitalensis
+Zelotes naliniae
+Zelotes nasikensis
+Zelotes nilgirinus
+Zelotes pexus
+Zelotes poonaensis
+Zelotes pseudopusillus
+Zelotes sajali
+Zelotes sataraensis
+Zelotes shantae
+Zelotes sindi
+Zelotes surekhae
+Zelotes tambaramensis
+Zelotes univittatus
+Zelotes viveki
+Zelotes yogeshi
+Hahnia mridulae
+Scotospilus maindroni
+Hersilia longivulva
+Hersilia orvakalensis
+Hersilia savignyi
+Hersilia scrupulosa
+Hersilia striata
+Hersilia sumatrana
+Hersilia tibialis
+Murricia hyderabadensis
+Murricia trapezodica
+Murricia triangularis
+Neotama punctigera
+Neotama rothorum
+Macrothele vidua
+Storenomorpha raghavai
+Heligmomerus barkudensis
+Heligmomerus biharicus
+Heligmomerus garoensis
+Heligmomerus prostans
+Idiops bombayensis
+Idiops constructor
+Idiops designatus
+Idiops fortis
+Idiops fossor
+Idiops joida
+Idiops kaasensis
+Idiops madrasensis
+Idiops mettupalayam
+Idiops oriya
+Idiops rubrolimbatus
+Scalidognathus montanus
+Scalidognathus nigriaraneus
+Scalidognathus tigerinus
+Anguliphantes nepalensis
+Anguliphantes nepalensoides
+Caviphantes pseudosaxetorum
+Cresmatoneta leucophthalma
+Emenista bisinuosa
+Erigone bifurca
+Erigone rohtangensis
+Gongylidiellum confusum
+Gongylidiellum nepalense
+Gongylidioides keralaensis
+Gongylidioides pectinatus
+Himalaphantes martensi
+Indophantes bengalensis
+Indophantes digitulus
+Indophantes pallidus
+Indophantes tonglu
+Lepthyphantes bhudbari
+Lepthyphantes lingsoka
+Lepthyphantes rudrai
+Lepthyphantes peramplus
+Linyphia sikkimensis
+Lepthyphantes stramineus
+Chrysso urbasae
+Microbathyphantes palmarius
+Nasoona crucifera
+Neriene birmanica
+Neriene macella
+Nasoona asocialis
+Oedothorax globiceps
+Oedothorax retusus
+Oia sororia
+Paracymboides aduncus
+Paracymboides tibialis
+Paragongylidiellum caliginosum
+Atypena cirrifrons
+Pelecopsis indus
+Tapinocyboides bengalensis
+Tiso incisus
+Tiso indianus
+Ummeliata insecticeps
+Walckenaeria martensi
+Walckenaeria saetigera
+Agroeca gangotrae
+Paratus indicus
+Sphingius barkudensis
+Sphingius bilineatus
+Sphingius caniceps
+Cambalida kambakamensis
+Inthaeron longipes
+Sphingius nilgiriensis
+Sphingius paltaensis
+Agalenocosa subinermis
+Arctosa himalayensis
+Arctosa indica
+Arctosa khudiensis
+Arctosa lesserti
+Arctosa sandeshkhaliensis
+Crocodilosa leucostigma
+Crocodilosa maindroni
+Draposa atropalpis
+Draposa lyrivulva
+Draposa nicobarica
+Draposa oakleyi
+Draposa porpaensis
+Draposa subhadrae
+Evippa banarensis
+Evippa jabalpurensis
+Evippa praelongipes
+Evippa rajasthanea
+Evippa rubiginosa
+Evippa shivajii
+Evippa sohani
+Evippa solanensis
+Evippomma evippinum
+Geolycosa carli
+Geolycosa charitonovi
+Hippasa agelenoides
+Hippasa charamaensis
+Hippasa fabreae
+Hippasa greenalliae
+Hippasa hansae
+Hippasa haryanensis
+Hippasa himalayensis
+Hippasa holmerae
+Hippasa loundesi
+Hippasa lycosina
+Hippasa madhuae
+Hippasa madraspatana
+Hippasa olivacea
+Hippasa pisaurina
+Hippasa valiveruensis
+Hippasa wigglesworthi
+Serratacosa himalayensis
+Hogna stictopyga
+Lycosa arambagensis
+Lycosa balaramai
+Lycosa barnesi
+Lycosa bhatnagari
+Lycosa bistriata
+Lycosa carmichaeli
+Lycosa chaperi
+Lycosa choudhuryi
+Lycosa fuscana
+Lycosa geotubalis
+Lycosa goliathus
+Lycosa indagatrix
+Lycosa iranii
+Lycosa jagadalpurensis
+Lycosa kempi
+Lycosa lambai
+Lycosa mackenziei
+Lycosa madani
+Lycosa mahabaleshwarensis
+Lycosa masteri
+Lycosa nigrotibialis
+Lycosa phipsoni
+Lycosa pictula
+Lycosa poonaensis
+Lycosa prolifica
+Lycosa shahapuraensis
+Lycosa shaktae
+Lycosa shillongensis
+Lycosa thoracica
+Lycosa tista
+Lycosa wroughtoni
+Margonia himalayensis
+Ocyale kalpiensis
+Ocyale pilosa
+Pardosa algoides
+Pardosa alii
+Pardosa altitudis
+Draposa amkhasensis
+Pardosa balaghatensis
+Pardosa bargaonensis
+Pardosa bastarensis
+Draposa burasantiensis
+Pardosa chambaensis
+Pardosa debolinae
+Pardosa duplicata
+Pardosa flavisterna
+Pardosa fletcheri
+Pardosa gopalai
+Pardosa haupti
+Pardosa heterophthalma
+Pardosa jabalpurensis
+Pardosa kalpiensis
+Pardosa kupupa
+Pardosa minuta
+Pardosa mukundi
+Pardosa orcchaensis
+Pardosa partita
+Ovia procurva
+Pardosa pseudoannulata
+Pardosa pusiola
+Pardosa ranjani
+Pardosa rhenockensis
+Pardosa shyamae
+Pardosa songosa
+Pardosa suchismitae
+Pardosa sumatrana
+Pardosa sutherlandi
+Pardosa tappaensis
+Pardosa thalassia
+Pardosa tikaderi
+Pardosa tridentis
+Shapna pluvialis
+Trochosa dentichelis
+Trochosa gunturensis
+Trochosa himalayensis
+Trochosa punctipes
+Trochosa ruricoloides
+Wadicosa fidelis
+Wadicosa quadrifera
+Draconarius harduarae
+Zoica puellula
+Melaenosia pustulifera
+Mimetus indicus
+Cheiracanthium aizwalense
+Cheiracanthium approximatum
+Cheiracanthium conflexum
+Cheiracanthium conspersum
+Cheiracanthium danieli
+Cheiracanthium himalayense
+Cheiracanthium incomptum
+Cheiracanthium indicum
+Cheiracanthium inornatum
+Cheiracanthium insigne
+Cheiracanthium jabalpurense
+Cheiracanthium kashmirense
+Cheiracanthium melanostomum
+Cheiracanthium murinum
+Cheiracanthium mysorense
+Cheiracanthium nalsaroverense
+Cheiracanthium pauriense
+Cheiracanthium poonaense
+Cheiracanthium punjabense
+Cheiracanthium sambii
+Cheiracanthium saraswatii
+Cheiracanthium seshii
+Cheiracanthium sikkimense
+Cheiracanthium tanmoyi
+Cheiracanthium triviale
+Cheiracanthium trivittatum
+Cheiracanthium vorax
+Eutichurus chingliputensis
+Eutichurus tezpurensis
+Palicanus caudatus
+Iardinis mussardi
+Damarchus assamensis
+Damarchus bifidus
+Gravelyia excavatus
+Herennia multipuncta
+Trichonephila clavata
+Nephila dirangensis
+Nephila pilipes
+Nephilengys malabarensis
+Nesticella nepalensis
+Althepus incognitus
+Oecobius chiasma
+Oecobius marathaus
+Oecobius putus
+Uroctea indica
+Uroctea manii
+Uroctea thaleri
+Aprusia kerala
+Brignolia assam
+Brignolia bengal
+Brignolia cardamom
+Brignolia jog
+Brignolia kaikatty
+Brignolia karnataka
+Brignolia kodaik
+Brignolia kumily
+Brignolia nigripalpis
+Brignolia nilgiri
+Brignolia parumpunctata
+Brignolia rothorum
+Brignolia valparai
+Camptoscaphiella fulva
+Camptoscaphiella gunsa
+Camptoscaphiella loebli
+Dysderoides typhlos
+Gamasomorpha clypeolaria
+Ischnothyreus deccanensis
+Ischnothyreus shillongensis
+Orchestina truncatula
+Pelicinus lachivala
+Pelicinus madurai
+Prethopalpus khasi
+Prethopalpus madurai
+Prethopalpus mahanadi
+Prethopalpus meghalaya
+Triaeris barela
+Camptoscaphiella glenniei
+Triaeris khashiensis
+Triaeris manii
+Triaeris melghaticus
+Triaeris nagarensis
+Triaeris nagpurensis
+Triaeris poonaensis
+Hamadruas insulana
+Hamadruas sikkimensis
+Hamataliwa incompta
+Hamataliwa pentagona
+Hamataliwa subhadrae
+Oxyopes armatipalpis
+Oxyopes ashae
+Oxyopes assamensis
+Oxyopes bharatae
+Oxyopes biharensis
+Oxyopes birmanicus
+Oxyopes boriensis
+Oxyopes chittrae
+Oxyopes elongatus
+Oxyopes gujaratensis
+Oxyopes gurjanti
+Oxyopes hindostanicus
+Oxyopes hotingchiehi
+Oxyopes indicus
+Oxyopes jabalpurensis
+Oxyopes javanus
+Oxyopes kamalae
+Oxyopes ketani
+Oxyopes kohaensis
+Oxyopes kumarae
+Oxyopes kusumae
+Oxyopes lepidus
+Oxyopes longinquus
+Oxyopes longispinus
+Oxyopes ludhianaensis
+Oxyopes minutus
+Oxyopes naliniae
+Oxyopes nilgiricus
+Hamataliwa ovata
+Oxyopes pandae
+Oxyopes pankaji
+Oxyopes pawani
+Oxyopes rajai
+Oxyopes ratnae
+Oxyopes reddyi
+Hamataliwa reticulata
+Oxyopes rufisternis
+Oxyopes rukminiae
+Oxyopes ryvesi
+Oxyopes sakuntalae
+Oxyopes saradae
+Oxyopes sataricus
+Oxyopes sertatus
+Oxyopes shweta
+Oxyopes sitae
+Oxyopes subimali
+Oxyopes sunandae
+Oxyopes sushilae
+Oxyopes tikaderi
+Oxyopes travancoricola
+Oxyopes wroughtoni
+Peucetia akwadaensis
+Peucetia ananthakrishnani
+Peucetia ashae
+Peucetia betlaensis
+Peucetia biharensis
+Peucetia choprai
+Peucetia elegans
+Peucetia gauntleta
+Peucetia graminea
+Peucetia harishankarensis
+Peucetia jabalpurensis
+Peucetia ketani
+Peucetia latikae
+Peucetia pawani
+Peucetia punjabensis
+Peucetia rajani
+Peucetia ranganathani
+Peucetia viridana
+Peucetia viveki
+Peucetia yogeshi
+Otiothops namratae
+Palpimanus vultuosus
+Sarascelis raffrayi
+Apollophanes bangalores
+Ebo bharatae
+Gephyrota pudica
+Philodromus ashae
+Philodromus assamensis
+Philodromus barmani
+Philodromus betrabatai
+Philodromus bhagirathai
+Philodromus bigibbus
+Philodromus chambaensis
+Philodromus decoratus
+Philodromus devhutai
+Philodromus domesticus
+Philodromus durvei
+Philodromus frontosus
+Philodromus jabalpurensis
+Philodromus ketani
+Rhysodromus lepidus
+Philodromus maliniae
+Philodromus manikae
+Philodromus mohiniae
+Philodromus pali
+Philodromus pawani
+Philodromus rajani
+Philodromus sanjeevi
+Philodromus shillongensis
+Philodromus tiwarii
+Psellonus planus
+Thanatus dhakuricus
+Thanatus indicus
+Thanatus jabalpurensis
+Thanatus ketani
+Thanatus lanceoletus
+Thanatus mandali
+Thanatus prolixus
+Thanatus simplicipalpis
+Thanatus stripatus
+Tibellus chaturshingi
+Tibellus elongatus
+Tibellus jabalpurensis
+Tibellus katrajghatus
+Tibellus pashanensis
+Tibellus pateli
+Tibellus poonaensis
+Tibellus vitilis
+Belisana dodabetta
+Belisana marusiki
+Leptopholcus kandy
+Micropholcus fauroti
+Pholcus djelalabad
+Pholcus fragillimus
+Pholcus kapuri
+Pholcus medog
+Pholcus alagarkoil
+Pimoa crispa
+Pimoa gandhii
+Pimoa indiscreta
+Pimoa thaleri
+Dendrolycosa bobbiliensis
+Dendrolycosa gitae
+Eucamptopus coronatus
+Euprosthenops ellioti
+Hygropoda chandrakantii
+Hygropoda gracilis
+Hygropoda sikkimus
+Nilus albocinctus
+Nilus decorata
+Nilus phipsoni
+Nilus pseudoalbocinctus
+Perenethis dentifasciata
+Perenethis sindica
+Perenethis venusta
+Pisaura podilensis
+Pisaura swamii
+Polyboea vulpina
+Polyboea zonaformis
+Tinus arindamai
+Prodidomus chaperi
+Prodidomus palkai
+Prodidomus papavanasanemensis
+Prodidomus saharanpurensis
+Prodidomus sirohi
+Prodidomus tirumalai
+Prodidomus venkateswarai
+Zimiris diffusa
+Zimiris doriae
+Fecenia protensa
+Psechrus crepido
+Psechrus hartmanni
+Psechrus himalayanus
+Psechrus inflatus
+Psechrus torvus
+Aelurillus improvisus
+Aelurillus kronestedti
+Aelurillus minimontanus
+Aelurillus quadrimaculatus
+Asemonea cristata
+Asemonea tenuipes
+Bianor albobimaculatus
+Bianor angulosus
+Bianor narmadaensis
+Bianor pashanensis
+Bianor pseudomaculatus
+Bianor punjabicus
+Bianor tortus
+Brettus adonis
+Brettus anchorum
+Brettus cingulatus
+Burmattus pococki
+Carrhotus erus
+Carrhotus sannio
+Carrhotus tristis
+Carrhotus viduus
+Chalcoscirtus glacialis
+Chalcoscirtus martensi
+Chalcotropis pennata
+Chinattus validus
+Chrysilla acerosa
+Cocalus murinus
+Colaxes nitidiventris
+Cosmophasis miniaceomicans
+Curubis erratica
+Curubis sipeki
+Curubis tetrica
+Cyrba ocellata
+Cytaea albolimbata
+Dexippus kleini
+Dexippus topali
+Epeus albus
+Epeus chilapataensis
+Epeus indicus
+Epocilla aurantiaca
+Epocilla calcarata
+Epocilla praetextata
+Epocilla xylina
+Euophrys evae
+Lechia minuta
+Evarcha flavocincta
+Evarcha pococki
+Ghumattus primus
+Habrocestoides bengalensis
+Habrocestoides darjeelingus
+Habrocestoides indicus
+Habrocestoides micans
+Habrocestoides nitidus
+Harmochirus brachiatus
+Harmochirus lloydi
+Harmochirus zabkai
+Hasarius adansoni
+Heliophanoides epigynalis
+Heliophanoides spermathecalis
+Heliophanus curvidens
+Hindumanes karnatakaensis
+Jerzego bipartitus
+Hyllus bos
+Hyllus diardi
+Hyllus pudicus
+Hyllus semicupreus
+Imperceptus minutus
+Irura mandarina
+Jajpurattus incertus
+Langona goaensis
+Langona kurracheensis
+Langona simoni
+Langona tigrina
+Madhyattus jabalpurensis
+Marengo crassipes
+Proszynskia anusuae
+Stenaelurillus arambagensis
+Marpissa dayapurensis
+Marpissa gangasagarensis
+Marpissa kalighatensis
+Marpissa manipuriensis
+Marpissa mizoramensis
+Marpissa nutanae
+Marpissa pauariensis
+Marpissa prathamae
+Phintelloides singhi
+Menemerus albocinctus
+Menemerus brachygnathus
+Menemerus brevibulbis
+Menemerus fulvus
+Menemerus marginatus
+Menemerus nigli
+Modunda staintoni
+Myrmarachne calcuttaensis
+Myrmarachne caliraya
+Myrmarachne dirangicus
+Myrmarachne himalayensis
+Myrmarachne incerta
+Toxeus jajpurensis
+Myrmarachne kuwagata
+Myrmarachne laeta
+Myrmarachne ludhianaensis
+Myrmarachne manducator
+Myrmaplata plataleoides
+Myrmarachne platypalpa
+Myrmarachne poonaensis
+Myrmarachne ramunni
+Myrmarachne robusta
+Myrmarachne roeweri
+Myrmarachne satarensis
+Myrmarachne transversa
+Myrmarachne tristis
+Myrmarachne uniseriata
+Neobrettus tibialis
+Onomastus indra
+Onomastus patellaris
+Pancorius daitaricus
+Pancorius darjeelingianus
+Pancorius magnus
+Pancorius submontanus
+Pancorius tagorei
+Pandisus indicus
+Panysinus grammicus
+Pellenes allegrii
+Phaeacius fimbriatus
+Phaeacius lancearius
+Phidippus audax
+Phidippus bengalensis
+Phidippus bhimrakshiti
+Phidippus calcuttaensis
+Phidippus khandalaensis
+Phidippus punjabensis
+Phidippus tirapensis
+Phidippus yashodharae
+Phintella accentifera
+Phintella assamica
+Phintella bifurcata
+Phintella coonooriensis
+Phintella debilis
+Phintella indica
+Phintella macrops
+Nandicius mussooriensis
+Phintella nilgirica
+Phintella reinhardti
+Phintella suknana
+Phintelloides versicolor
+Phintella vittata
+Chrysilla volupe
+Phlegra dhakuriensis
+Phlegra fasciata
+Pilia escheri
+Pilia saltabunda
+Padillothorax casteti
+Piranthus decorus
+Plexippus andamanensis
+Plexippus calcutaensis
+Plexippus clemens
+Plexippus paykulli
+Plexippus redimitus
+Portia albimana
+Portia assamensis
+Portia fimbriata
+Portia labiata
+Pseudamycus himalaya
+Pseudicius andamanius
+Okinawicius daitaricus
+Nandicius frigidus
+Rudakius ludhianaensis
+Okinawicius modestus
+Nepalicius nepalicus
+Nandicius pseudoicioides
+Rhene albigera
+Rhene callida
+Rhene callosa
+Rhene citri
+Rhene daitarensis
+Rhene danieli
+Rhene darjeelingiana
+Rhene decorata
+Rhene flavicomans
+Rhene haldanei
+Rhene indica
+Rhene khandalaensis
+Rhene mus
+Rhene pantharae
+Rhene rubrigera
+Rhene sanghrakshiti
+Saitis chaperi
+Siler semiglaucus
+Similaria enigmatica
+Attulus avocator
+Stenaelurillus lesserti
+Bianor balius
+Synagelides darjeelingus
+Synagelides lehtineni
+Synagelides martensi
+Tamigalesus munnaricus
+Telamonia dimidiata
+Telamonia festiva
+Telamonia peckhami
+Epocilla aura
+Thiania bhamoensis
+Thyene bivittata
+Thyene imperialis
+Viciria diademata
+Proszynskia diatreta
+Viciria minima
+Ptocasius senchalensis
+Yllenus baltistanus
+Marusyllus gregoryi
+Marusyllus karnai
+Zeuxippus histrio
+Scytodes alfredi
+Scytodes gilva
+Scytodes kinsukus
+Scytodes mawphlongensis
+Scytodes pallida
+Scytodes propinqua
+Scytodes stoliczkai
+Scytodes thoracica
+Scytodes univittata
+Ariadna nebulosa
+Segestria inda
+Makdiops agumbensis
+Makdiops mahishasura
+Makdiops montigena
+Makdiops nilgirensis
+Makdiops shiva
+Selenops radiatus
+Makdiops shevaroyensis
+Loxosceles rufescens
+Bhutaniella sikkimensis
+Eusparassus kronebergi
+Eusparassus pearsoni
+Eusparassus pontii
+Gnathopalystes kochi
+Heteropoda afghana
+Heteropoda altithorax
+Heteropoda bhaikakai
+Olios bhattacharjeei
+Spariolenus buxa
+Olios debalae
+Gnathopalystes denticulatus
+Heteropoda emarginativulva
+Heteropoda fabrei
+Heteropoda fischeri
+Heteropoda gourae
+Heteropoda hampsoni
+Heteropoda kandiana
+Heteropoda kuluensis
+Heteropoda lentula
+Heteropoda leprosa
+Heteropoda lunula
+Heteropoda malitiosa
+Heteropoda merkarensis
+Heteropoda nilgirina
+Heteropoda nirounensis
+Heteropoda pedata
+Heteropoda phasma
+Heteropoda robusta
+Heteropoda sexpunctata
+Pseudopoda shillongensis
+Pseudopoda straminiosa
+Heteropoda striatipes
+Heteropoda subplebeia
+Martensopoda minuscula
+Martensopoda transversa
+Olios admiratus
+Olios bhavnagarensis
+Olios gravelyi
+Olios hampsoni
+Olios jaldaparaensis
+Olios lamarcki
+Olios milleti
+Olios obesulus
+Olios punctipes
+Olios pyrozonis
+Olios rossettii
+Olios rotundiceps
+Olios senilis
+Olios stimulator
+Olios tarandus
+Olios tener
+Olios tikaderi
+Olios wroughtoni
+Palystes flavidus
+Pandercetes celatus
+Pseudopoda abnormis
+Pseudopoda akashi
+Pseudopoda casaria
+Pseudopoda fabularis
+Pseudopoda hingstoni
+Pseudopoda minor
+Pseudopoda perplexa
+Pseudopoda prompta
+Pseudopoda sicca
+Sivalicus viridis
+Spariolenus tigris
+Thelcticopis ajax
+Thelcticopis bicornuta
+Thelcticopis bifasciata
+Thelcticopis canescens
+Thelcticopis maindroni
+Thelcticopis moolampilliensis
+Thelcticopis rufula
+Thelcticopis serambiformis
+Thelcticopis virescens
+Stenochilus hobsoni
+Stenochilus scutulatus
+Brignoliella besuchetiana
+Choiroblemma bengalense
+Choiroblemma rhinoxunum
+Indicoblemma sheari
+Tetrablemma brignolii
+Tetrablemma deccanense
+Tetrablemma loebli
+Tetrablemma medioculatum
+Dolichognatha longiceps
+Glenognatha dentata
+Guizygiella indica
+Guizygiella melanocrania
+Guizygiella shivui
+Leucauge beata
+Leucauge celebesiana
+Leucauge decorata
+Leucauge dorsotuberculata
+Leucauge granulata
+Leucauge nicobarica
+Leucauge pusilla
+Leucauge rubrotrivittata
+Leucauge tessellata
+Leucauge tristicta
+Meta abdomenalis
+Meta simlaensis
+Leucauge fastigata
+Orsinome armata
+Tylorida marmorea
+Orsinome vethi
+Tetragnatha andamanensis
+Tetragnatha bengalensis
+Tetragnatha bogotensis
+Tetragnatha ceylonica
+Tetragnatha chamberlini
+Tetragnatha cochinensis
+Tetragnatha coelestis
+Tetragnatha delumbis
+Tetragnatha fletcheri
+Tetragnatha foliferens
+Tetragnatha hasselti
+Tetragnatha irridescens
+Tetragnatha isidis
+Tetragnatha josephi
+Tetragnatha keyserlingi
+Tetragnatha mandibulata
+Tetragnatha paradisea
+Tetragnatha parvula
+Tetragnatha sutherlandi
+Tetragnatha viridorufa
+Mesida culta
+Tylorida striata
+Tylorida ventralis
+Annandaliella ernakulamensis
+Annandaliella pectinifera
+Annandaliella travancorica
+Chilobrachys andersoni
+Chilobrachys assamensis
+Chilobrachys femoralis
+Chilobrachys fimbriatus
+Chilobrachys flavopilosus
+Chilobrachys fumosus
+Chilobrachys hardwickei
+Chilobrachys himalayensis
+Chilobrachys khasiensis
+Chilobrachys stridulans
+Chilobrachys thorelli
+Haploclastus cervinus
+Haploclastus kayi
+Haploclastus nilgirinus
+Haploclastus satyanus
+Haploclastus tenebrosus
+Haploclastus validus
+Neoheterophrictus bhori
+Heterophrictus milleti
+Lyrognathus crotalus
+Lyrognathus saltator
+Neoheterophrictus crurofulvus
+Neoheterophrictus madraspatanus
+Neoheterophrictus sahyadri
+Neoheterophrictus uttarakannada
+Chilobrachys subarmatus
+Heterophrictus blatteri
+Sahydroaraneus collinus
+Plesiophrictus fabrei
+Plesiophrictus linteatus
+Plesiophrictus meghalayaensis
+Plesiophrictus millardi
+Plesiophrictus nilagiriensis
+Sahydroaraneus raja
+Plesiophrictus sericeus
+Poecilotheria formosa
+Poecilotheria hanumavilasumica
+Poecilotheria metallica
+Poecilotheria miranda
+Poecilotheria regalis
+Poecilotheria rufilata
+Poecilotheria striata
+Poecilotheria tigrinawesseli
+Poecilotheria vittata
+Selenocosmia kulluensis
+Selenocosmia sutherlandi
+Thrigmopoeus insignis
+Thrigmopoeus truculentus
+Achaearanea budana
+Achaearanea diglipuriensis
+Achaearanea durgae
+Achaearanea triangularis
+Argyrodes ambalikae
+Meotipa andamanensis
+Argyrodes argentatus
+Argyrodes bonadea
+Argyrodes chiriatapuensis
+Argyrodes cyrtophorae
+Argyrodes dipali
+Argyrodes fissifrons
+Argyrodes flavescens
+Argyrodes gazedes
+Argyrodes gazingensis
+Argyrodes gouri
+Argyrodes jamkhedes
+Argyrodes nephilae
+Argyrodes projeles
+Argyrodes scintillulanus
+Ariamnes pavesii
+Ariamnes simulans
+Chrysso angula
+Meotipa argyrodiformis
+Chikunia nigra
+Chrysso scintillans
+Coleosoma blandum
+Coleosoma floridanum
+Cyllognatha surajbe
+Dipoenura fimbriata
+Emertonella taczanowskii
+Enoplognatha diodonta
+Episinus affinis
+Episinus pentagonalis
+Euryopis episinoides
+Euryopis nubila
+Faiditus xiphias
+Latrodectus elegans
+Latrodectus erythromelas
+Latrodectus geometricus
+Latrodectus hasselti
+Meotipa picturata
+Molione triacantha
+Moneta grandis
+Nihonhimea brookesiana
+Parasteatoda celsabdomina
+Parasteatoda kompirensis
+Nihonhimea mundula
+Parasteatoda oxymaculata
+Phoroncidia aculeata
+Phoroncidia maindroni
+Phoroncidia septemaculeata
+Phoroncidia testudo
+Phycosoma martinae
+Phylloneta impressa
+Propostira quadrangulata
+Propostira ranii
+Rhomphaea labiata
+Rhomphaea projiciens
+Ruborridion musivum
+Steatoda alboclathrata
+Steatoda cingulata
+Steatoda rufoannulata
+Theridion bengalensis
+Nihonhimea indica
+Theridion leucophaeum
+Theridion maindroni
+Theridion manjithar
+Theridion melanostictum
+Theridion nilgherinum
+Theridion sadani
+Theridion subvittatum
+Nihonhimea tikaderi
+Theridion zonulatum
+Theridula gonygaster
+Theridula opulenta
+Thwaitesia dangensis
+Thwaitesia margaritifera
+Tomoxena dives
+Yaginumena maculosa
+Wendilgarda assamensis
+Amyciaea forticeps
+Angaeus pentagonalis
+Angaeus zhengi
+Bomis bengalensis
+Bomis calcuttaensis
+Bomis khajuriai
+Borboropactus bituberculatus
+Borboropactus elephantus
+Camaricus bipunctatus
+Camaricus formosus
+Camaricus khandalaensis
+Camaricus maugei
+Camaricus rinkae
+Camaricus siltorsus
+Demogenes andamanensis
+Diaea bengalensis
+Diaea pougneti
+Diaea subdola
+Dietopsa castaneifrons
+Dietopsa parnassia
+Epidius longipalpis
+Epidius parvati
+Henriksenia hilaris
+Holopelus malati
+Indosmodicinus bengalensis
+Indoxysticus minutus
+Loxobates castetsi
+Loxobates kapuri
+Lycopus trabeatus
+Lysiteles brunettii
+Lysiteles catulus
+Lysiteles excultus
+Lysiteles mandali
+Massuria roonwali
+Massuria sreepanchamii
+Mastira menoka
+Mastira nicobarensis
+Misumena annapurna
+Misumena ganpatii
+Misumena greenae
+Misumena indra
+Misumena mridulai
+Misumena ritujae
+Misumenoides gwarighatensis
+Misumenoides naginae
+Misumenops khandalaensis
+Monaeses israeliensis
+Monaeses jabalpurensis
+Monaeses mukundi
+Monaeses pachpediensis
+Monaeses parvati
+Oxytate chlorion
+Oxytate elongata
+Oxytate greenae
+Oxytate kanishkai
+Ozyptila amkhasensis
+Ozyptila chandosiensis
+Ozyptila jabalpurensis
+Ozyptila khasi
+Ozyptila manii
+Ozyptila maratha
+Ozyptila reenae
+Ozyptila theobaldi
+Pagida salticiformis
+Pasias marathas
+Pasias puspagiri
+Phrynarachne ceylonica
+Phrynarachne peeliana
+Phrynarachne tuberosa
+Pistius barchensis
+Pistius bhadurii
+Pistius gangulyi
+Pistius kalimpus
+Pistius kanikae
+Pistius robustus
+Pistius tikaderi
+Platythomisus sudeepi
+Epidius armatus
+Runcinia bifrons
+Runcinia escheri
+Runcinia ghorpadei
+Runcinia khandari
+Runcinia kinbergi
+Runcinia roonwali
+Runcinia sitadongri
+Runcinia spinulosa
+Runcinia yogeshi
+Stiphropus duriusculus
+Stiphropus sangayus
+Stiphropus soureni
+Strigoplus bilobus
+Strigoplus moluri
+Strigoplus netravati
+Synema decoratum
+Synema mysorense
+Synema revolutum
+Tharpyna himachalensis
+Tharpyna indica
+Thomisus andamanensis
+Thomisus armillatus
+Thomisus ashishi
+Thomisus baghdeoi
+Thomisus bargi
+Thomisus beautifularis
+Thomisus bulani
+Thomisus danieli
+Thomisus daradioides
+Thomisus dhakuriensis
+Thomisus dhananjayi
+Thomisus dyali
+Thomisus elongatus
+Thomisus godavariae
+Thomisus granulifrons
+Thomisus katrajghatus
+Thomisus keralae
+Thomisus kokiwadai
+Thomisus krishnae
+Thomisus leucaspis
+Thomisus lobosus
+Thomisus ludhianaensis
+Thomisus manishae
+Thomisus manjuae
+Thomisus meenae
+Thomisus mimae
+Thomisus nirmali
+Thomisus pateli
+Thomisus pathaki
+Thomisus pooneus
+Thomisus pritiae
+Thomisus projectus
+Thomisus pugilis
+Thomisus rajani
+Thomisus rigoratus
+Thomisus rishus
+Thomisus shillongensis
+Thomisus shivajiensis
+Thomisus sikkimensis
+Thomisus simoni
+Thomisus sorajaii
+Thomisus spectabilis
+Thomisus sundari
+Thomisus unidentatus
+Thomisus viveki
+Thomisus whitakeri
+Tmarus dejectus
+Tmarus fasciolatus
+Tmarus jabalpurensis
+Tmarus kotigeharus
+Tmarus soricinus
+Tmarus srisailamensis
+Xysticus bengalensis
+Xysticus bengdakus
+Xysticus bharatae
+Xysticus breviceps
+Xysticus croceus
+Xysticus himalayaensis
+Xysticus hindusthanicus
+Xysticus jabalpurensis
+Xysticus jaharai
+Xysticus joyantius
+Xysticus kali
+Xysticus kamakhyai
+Xysticus kashidi
+Xysticus khasiensis
+Xysticus pynurus
+Xysticus roonwali
+Psammitis setiger
+Xysticus shillongensis
+Xysticus shyamrupus
+Xysticus sikkimus
+Xysticus tikaderi
+Xysticus viveki
+Xysticus yogeshi
+Anuvinda escheri
+Pandava andhraca
+Pandava ganesha
+Pandava ganga
+Pandava kama
+Pandava laminata
+Pandava nathabhaii
+Pandava shiva
+Titanoeca sharmai
+Plator himalayaensis
+Plator indicus
+Plator kashmirensis
+Plator pandeae
+Plator solanensis
+Hyptiotes affinis
+Hyptiotes himalayensis
+Hyptiotes indicus
+Miagrammopes albomaculatus
+Miagrammopes extensus
+Miagrammopes gravelyi
+Miagrammopes indicus
+Miagrammopes kirkeensis
+Miagrammopes poonaensis
+Miagrammopes sexpunctatus
+Miagrammopes sutherlandi
+Miagrammopes thwaitesi
+Philoponella hilaris
+Uloborus bigibbosus
+Uloborus danolius
+Uloborus ferokus
+Uloborus filifaciens
+Uloborus furunculus
+Uloborus jabalpurensis
+Uloborus khasiensis
+Uloborus krishnae
+Uloborus modestus
+Zosis geniculata
+Asceua cingulata
+Cryptothele collina
+Cydrela escheri
+Cydrela nitidiceps
+Cydrela stillata
+Hermippus arjuna
+Hermippus cruciatus
+Tropizodium bengalensis
+Zodarion deccanensis
+Tropizodium kovvurensis
+Tropizodium poonaensis
+Mallinella nilgherina
+Mallinella redimita
+Laminion arakuense
+Laminion birenifer
+Laminion debasrae
+Mallinella dibangensis
+Laminion gujaratense
+Mallinella indica
+Storenomorpha joyaus
+Suffasia keralaensis
+Suffasia tigrina
+Hasarius kjellerupi
+Myrmarachne prava
+Myrmarachne pumilio
+Dictyna chandrai
+Mimetus tikaderi
+Cheiracanthium andamanense
+Cheiracanthium sadanai
+Myrmarachne providens
+Dysderoides synrang
+Trilacuna meghalaya
+Trilacuna besucheti
+Trilacuna loebli
+Trilacuna mahanadi
+Trilacuna bangla
+Himalayana andreae
+Himalayana siliwalae
+Atypus wii
+Eupoa lehtineni
+Heterophrictus raveni
+Heterophrictus aareyensis
+Neoheterophrictus smithi
+Neoheterophrictus amboli
+Sahydroaraneus hirsti
+Haploclastus devamatha
+Glenognatha ganeshi
+Icius alboterminus
+Ovia quinquedens
+Hyllus manu
+Oxyopes gorumaraensis
+Phintelloides jesudasi
+Stenaelurillus sarojinae
+Xyphinus baehrae
+Hermippus globosus
+Hermippus inflexus
+Hermippus gavi
+Lysania prolixa
+Harmochirus exaggeratus
+Wadicosa prasantae
+Oxyopes fabae
+Chorizopes quadrituberculata
+Martensopoda sanctor
+Stenaelurillus albus
+Damarchilus nigricus
+Damarchilus rufus
+Langona albolinea
+Langona davidi
+Phanuelus gladstone
+Phlegra prasanna
+Thomisus telanganaensis
+Conothele giganticus
+Conothele khunthokhanbi
+Castianeira furva
+Dictis ganeshi
+Stemmops satpudaensis
+Dolichognatha lonarensis
+Peucetia phantasma
+Dictis mumbaiensis
+Stenaelurillus jagannathae
+Indopadilla insularis
+Heligmomerus maximus
+Himalmartensus nandadevi
+Oedothorax cornutus
+Oedothorax cunur
+Oedothorax falciferoides
+Oedothorax kodaikanal
+Oedothorax lopchu
+Oedothorax meghalaya
+Oedothorax paracymbialis
+Oedothorax rusticus
+Oedothorax stylus
+Oedothorax uncus
+Oedothorax villosus
+Miagrammopes apostrophus
+Yaginumaella aishwaryi
+Massuria uthoracica
+Misumena mickeyi
+Pharta indica
+Oxyopes linearis
+Pholcus viveki
+Suffasia ala
+Araneus varpunen
+Phintelloides undulatus
+Gibbaranea indiana
+Tropizodium kalami
+Tropizodium viridurbium
+Paraplectana rajashree
+Thelcticopis kirankhalapi
+Cyrtarachne sunjoymongai
+Miagrammopes satpudaensis
+Shearella alii
+Pseudopoda ashcharya
+Stenaelurillus metallicus
+Cambalida deorsa
+Cambalida tuma
+Tigidia konkanensis
+Clubiona denticulata
+Clubiona tridentata
+Clubiona pila
+Clubiona bilobata
+Clubiona pseudocordata
+Bristowia gandhii
+Stenaelurillus gabrieli
+Bathippus brevipalpis
+Oedothorax paralegrandi
+Cambalida dhupgadensis
+Hypsosinga satpuraensis
+Eriovixia gryffindori
+Clubiona hexadentata
+Cyrtophora bituberculata
+Hamataliwa hellia
+Epidius longimanus
+Epidius mahavira
+Macrothele alyrata
+Draconarius joshimath
+Pandava aruni
+Cyclosa vankhedensis
+Paratus perus
+Meotipa sahyadri
+Wadicosa ghatica
+Langelurillus lacteus
+Langelurillus onyx
+Oedothorax khasi
+Meotipa multuma
+Hindumanes wayanadensis
+Tylorida flava
+Atelidea nona
+Ariadna vansda
+Ariadna molur
+Ariadna chhotae
+Anaxibia folia
+Synagelides munnar
+Icius kumariae
+Epocilla sirohi
+Mogrus rajasthanensis
+Africactenus unumus
+Trachelas chamoli
+Nasoona indianа
+Nasoona orissa
+Wolongia papafrancisi
+Pellenes iva
+Sahydroaraneus sebastiani
+Brancus calebi
+Orientattus aurantius
+Hitobia procula
+Synaphosus iunctus
+Urozelotes patulusus
+Gravelyia striatus
+Colyttus proszynskii
+Synagelides brahmaputra
+Nandicius vallisflorum
+Pellenes himalaya
+Megaeupoa gravelyi
+Erigone jammu
+Pseudopoda cheppe
+Icius vikrambatrai
+Habrocestum longispinum
+Althepus devraii
+Neaetha tomkovichi
+Jerzego sunillimaye
+Cocalus lacinia
+Eriovixia kachugaonensis
+Euryeidon katapagai
+Euryeidon jatashankarae
+Platythomisus xiandao
+Pancorius nagaland
+Epeus triangulopalpis
+Piranthus planolancis
+Meotipa ultapani
+Indomarengo chavarapater
+Marengo sachintendulkar
+Marengo zebra
+Marengo batheryensis
+Paraplectana mamoniae
+Idiops nilagiri
+Theridion odisha
+Indopadilla darjeeling
+Phlegra abhinandanvarthamani
+Neoheterophrictus chimminiensis
+Araniella villanii
+Carrhotus andhra
+Carrhotus assam
+Carrhotus silanthi
+Oedothorax unciger
+Oedothorax sohra
+Phintelloides manipur
+Vailimia ajmerensis
+Vailimia jharbari
+Sinopoda assamensis
+Colaxes sazailus
+Glenognatha paullula
+Oxyopes haryanaensis
+Heligmomerus wii
+Idiops bonny
+Idiops reshma
+Idiops sally
+Idiops vankhede
+Araniella levii
+Araniella maasdorpi
+Uroballus nazirwanii
+Idiops medini
+Indopadilla kodagura
+Maripanthus jubatus
+Chinattus prabodhi
+Stenaelurillus indicus
+Stenaelurillus tettu
+Stenaelurillus wandae
+Indoseges malkangiri
+Indoseges sushildutta
+Indoseges chilika
+Indoseges narayani
+Indoseges satkosia
+Maripanthus gloria
+Colopsus cinereus
+Pimoa gagna
+Pimoa nainital
+Pimoa shoja
+Phintella cholkei
+Icius tukarami
+Gravelyia boro
+Oxyopes scapeus
+Oxyopes dinendrai
+Conothele chinnarensis
+Gaviphosa kera
+Carrhotus spiridonovi
+Oedothorax veloorensis
+Oedothorax cheruthoniensis
+Afraflacilla banni
+Uloborus shendurneyensis
+Agelena
+Tamgrinia
+Tegenaria
+Amaurobius
+Anyphaena
+Acusilas
+Anepsion
+Arachnura
+Araneus
+Neoscona
+Araniella
+Argiope
+Caerostris
+Cercidia
+Chorizopes
+Cyclosa
+Cyrtarachne
+Paraplectana
+Cyrtophora
+Eriovixia
+Gasteracantha
+Macracantha
+Gea
+Gibbaranea
+Larinia
+Lipocrea
+Neogea
+Ordgarius
+Parawixia
+Pasilobus
+Plebs
+Poltys
+Porcataraneus
+Prasonica
+Singa
+Zilla
+Atypus
+Diplothele
+Sason
+Sasonichus
+Sipalolasma
+Tigidia
+Cithaeron
+Inthaeron
+Clubiona
+Matidia
+Simalio
+Aetius
+Apochinomma
+Oedignatha
+Cambalida
+Castianeira
+Coenoptychus
+Corinnomma
+Echinax
+Orthobula
+Trachelas
+Utivarachna
+Acantheis
+Amauropelma
+Anahita
+Ctenus
+Conothele
+Latouchia
+Asianopis
+Desis
+Ajmonia
+Anaxibia
+Nigma
+Dictyna
+Himalmartensus
+Sudesna
+Indothele
+Ischnothele
+Stegodyphus
+Pholcoides
+Pritha
+Zaitunia
+Sahastata
+Coillina
+Callilepis
+Camillina
+Drassodes
+Echemus
+Coreodrassus
+Cryptodrassus
+Eilica
+Gnaphosa
+Haplodrassus
+Zelotes
+Scotophaeus
+Heser
+Ladissa
+Megamyrmaekion
+Poecilochroa
+Micaria
+Setaphis
+Nomisia
+Synaphosus
+Pterotricha
+Hitobia
+Sphingius
+Urozelotes
+Talanites
+Marinarozelotes
+Hahnia
+Scotospilus
+Hersilia
+Murricia
+Neotama
+Macrothele
+Storenomorpha
+Heligmomerus
+Idiops
+Scalidognathus
+Anguliphantes
+Caviphantes
+Cresmatoneta
+Emenista
+Erigone
+Gongylidiellum
+Gongylidioides
+Himalaphantes
+Indophantes
+Lepthyphantes
+Linyphia
+Chrysso
+Microbathyphantes
+Nasoona
+Neriene
+Oedothorax
+Oia
+Paracymboides
+Paragongylidiellum
+Atypena
+Pelecopsis
+Tapinocyboides
+Tiso
+Ummeliata
+Walckenaeria
+Agroeca
+Paratus
+Agalenocosa
+Arctosa
+Crocodilosa
+Draposa
+Evippa
+Evippomma
+Geolycosa
+Hippasa
+Serratacosa
+Hogna
+Lycosa
+Margonia
+Ocyale
+Pardosa
+Ovia
+Shapna
+Trochosa
+Wadicosa
+Draconarius
+Zoica
+Melaenosia
+Mimetus
+Cheiracanthium
+Eutichurus
+Palicanus
+Iardinis
+Damarchus
+Gravelyia
+Herennia
+Trichonephila
+Nephila
+Nephilengys
+Nesticella
+Althepus
+Oecobius
+Uroctea
+Aprusia
+Brignolia
+Camptoscaphiella
+Dysderoides
+Gamasomorpha
+Ischnothyreus
+Orchestina
+Pelicinus
+Prethopalpus
+Triaeris
+Hamadruas
+Hamataliwa
+Oxyopes
+Peucetia
+Otiothops
+Palpimanus
+Sarascelis
+Apollophanes
+Ebo
+Gephyrota
+Philodromus
+Rhysodromus
+Psellonus
+Thanatus
+Tibellus
+Belisana
+Leptopholcus
+Micropholcus
+Pholcus
+Pimoa
+Dendrolycosa
+Eucamptopus
+Euprosthenops
+Hygropoda
+Nilus
+Perenethis
+Pisaura
+Polyboea
+Tinus
+Prodidomus
+Zimiris
+Fecenia
+Psechrus
+Aelurillus
+Asemonea
+Bianor
+Brettus
+Burmattus
+Carrhotus
+Chalcoscirtus
+Chalcotropis
+Chinattus
+Chrysilla
+Cocalus
+Colaxes
+Cosmophasis
+Curubis
+Cyrba
+Cytaea
+Dexippus
+Epeus
+Epocilla
+Euophrys
+Lechia
+Evarcha
+Ghumattus
+Habrocestoides
+Harmochirus
+Hasarius
+Heliophanoides
+Heliophanus
+Hindumanes
+Jerzego
+Hyllus
+Imperceptus
+Irura
+Jajpurattus
+Langona
+Madhyattus
+Marengo
+Proszynskia
+Stenaelurillus
+Marpissa
+Phintelloides
+Menemerus
+Modunda
+Myrmarachne
+Toxeus
+Myrmaplata
+Neobrettus
+Onomastus
+Pancorius
+Pandisus
+Panysinus
+Pellenes
+Phaeacius
+Phidippus
+Phintella
+Nandicius
+Phlegra
+Pilia
+Padillothorax
+Piranthus
+Plexippus
+Portia
+Pseudamycus
+Pseudicius
+Okinawicius
+Rudakius
+Nepalicius
+Rhene
+Saitis
+Siler
+Similaria
+Attulus
+Synagelides
+Tamigalesus
+Telamonia
+Thiania
+Thyene
+Viciria
+Ptocasius
+Yllenus
+Marusyllus
+Zeuxippus
+Scytodes
+Ariadna
+Segestria
+Makdiops
+Selenops
+Loxosceles
+Bhutaniella
+Eusparassus
+Gnathopalystes
+Heteropoda
+Olios
+Spariolenus
+Pseudopoda
+Martensopoda
+Palystes
+Pandercetes
+Sivalicus
+Thelcticopis
+Stenochilus
+Brignoliella
+Choiroblemma
+Indicoblemma
+Tetrablemma
+Dolichognatha
+Glenognatha
+Guizygiella
+Leucauge
+Meta
+Orsinome
+Tylorida
+Tetragnatha
+Mesida
+Annandaliella
+Chilobrachys
+Haploclastus
+Neoheterophrictus
+Heterophrictus
+Lyrognathus
+Sahydroaraneus
+Plesiophrictus
+Poecilotheria
+Selenocosmia
+Thrigmopoeus
+Achaearanea
+Argyrodes
+Meotipa
+Ariamnes
+Chikunia
+Coleosoma
+Cyllognatha
+Dipoenura
+Emertonella
+Enoplognatha
+Episinus
+Euryopis
+Faiditus
+Latrodectus
+Molione
+Moneta
+Nihonhimea
+Parasteatoda
+Phoroncidia
+Phycosoma
+Phylloneta
+Propostira
+Rhomphaea
+Ruborridion
+Steatoda
+Theridion
+Theridula
+Thwaitesia
+Tomoxena
+Yaginumena
+Wendilgarda
+Amyciaea
+Angaeus
+Bomis
+Borboropactus
+Camaricus
+Demogenes
+Diaea
+Dietopsa
+Epidius
+Henriksenia
+Holopelus
+Indosmodicinus
+Indoxysticus
+Loxobates
+Lycopus
+Lysiteles
+Massuria
+Mastira
+Misumena
+Misumenoides
+Misumenops
+Monaeses
+Oxytate
+Ozyptila
+Pagida
+Pasias
+Phrynarachne
+Pistius
+Platythomisus
+Runcinia
+Stiphropus
+Strigoplus
+Synema
+Tharpyna
+Thomisus
+Tmarus
+Xysticus
+Psammitis
+Anuvinda
+Pandava
+Titanoeca
+Plator
+Hyptiotes
+Miagrammopes
+Philoponella
+Uloborus
+Zosis
+Asceua
+Cryptothele
+Cydrela
+Hermippus
+Tropizodium
+Zodarion
+Mallinella
+Laminion
+Suffasia
+Trilacuna
+Himalayana
+Eupoa
+Icius
+Xyphinus
+Lysania
+Damarchilus
+Phanuelus
+Dictis
+Stemmops
+Indopadilla
+Yaginumaella
+Pharta
+Shearella
+Bristowia
+Bathippus
+Hypsosinga
+Langelurillus
+Atelidea
+Mogrus
+Africactenus
+Wolongia
+Brancus
+Orientattus
+Colyttus
+Megaeupoa
+Habrocestum
+Neaetha
+Euryeidon
+Indomarengo
+Vailimia
+Sinopoda
+Uroballus
+Maripanthus
+Indoseges
+Colopsus
+Gaviphosa
+Afraflacilla
+Agelenidae
+Amaurobiidae
+Anyphaenidae
+Araneidae
+Atypidae
+Barychelidae
+Cithaeronidae
+Clubionidae
+Corinnidae
+Liocranidae
+Trachelidae
+Ctenidae
+Halonoproctidae
+Deinopidae
+Desidae
+Dictynidae
+Ischnothelidae
+Eresidae
+Filistatidae
+Gnaphosidae
+Hahniidae
+Hersiliidae
+Macrothelidae
+Zodariidae
+Idiopidae
+Linyphiidae
+Theridiidae
+Lycosidae
+Mimetidae
+Cheiracanthiidae
+Miturgidae
+Symphytognathidae
+Bemmeridae
+Nemesiidae
+Nesticidae
+Psilodercidae
+Oecobiidae
+Oonopidae
+Oxyopidae
+Palpimanidae
+Philodromidae
+Pholcidae
+Pimoidae
+Pisauridae
+Psechridae
+Salticidae
+Scytodidae
+Segestriidae
+Selenopidae
+Sicariidae
+Sparassidae
+Stenochilidae
+Tetrablemmidae
+Tetragnathidae
+Theraphosidae
+Theridiosomatidae
+Thomisidae
+Titanoecidae
+Trochanteriidae
+Uloboridae
