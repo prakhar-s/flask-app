@@ -66,6 +66,7 @@ def getScientificNamesGnfinder(inputText):
     names=[]
     query = {'text':inputText}
     response = requests.get('http://localhost:3006/parse',params=query)
+    print("names is = ",)
     if(response.json()['names']):
         names=extract_names(response.json()['names'])
         print(names)

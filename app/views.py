@@ -60,20 +60,37 @@ def extractScientificNamesFlashtext():
     return response
 
 
+@app.route("/test",methods=["POST"])
+def test():
+    formData=request.form
+    columnsSelected=formData.to_dict(flat=False)
+    snameColumns=columnsSelected['sname'][0].split(",")
+    locationColumns=columnsSelected['location'][0].split(",")
+    dateColumns=columnsSelected['date'][0].split(",")
 
+    return columnsSelected
 
 @app.route("/extract",methods=["POST"])
 def extractAll():
-    nameTextInput=request.args.get("nameTextField")
-    locationTextInput=request.args.get("locationTextField")
-    dateTextInput=request.args.get("dateTextField")
+    #nameTextInput=request.args.get("nameTextField")
+    #locationTextInput=request.args.get("locationTextField")
+    #dateTextInput=request.args.get("dateTextField")
+
+    formData=request.form.to_dict(flat=False)
+    snameColumns=formData['sname'][0].split(",")
+    locationColumns=formData['location'][0].split(",")
+    dateColumns=formData['date'][0].split(",")
+    inputFileName=formData['path'][0]
 
 
+    
 
 
-    inputFileName="/home/prakhar/myUploads/uploaded.csv"
+    
+    #inputFileName="/home/prakhar/myUploads/uploaded.csv"
     #outputFilename="Second-cut-curation-sheet-1.csv" #get this also using query params
     outputFilename="/home/prakhar/myUploads/output.csv"
+    print("-----------EXTRACTION PROCESS STARTED-------------")
     start = time.time()
 
     fields=["Unique id","Author","Desc","Comments Text","Input Text","Locations","Scientific Names(GNRD)","Scientific Names(Flashtext)","Day","Month","Year","Permalink","Thumb","fullLink"]
@@ -93,7 +110,11 @@ def extractAll():
     #df=pd.read_csv("curation_sample_5.1_1to100.csv")
     df=pd.read_csv(inputFileName)
 
+
+    
+
     for i in range(len(df)):
+
         try:
             author=df.loc[i,"Author"]
             desc=df.loc[i,"Desc"]
@@ -103,9 +124,26 @@ def extractAll():
             uniqueId=GetUniqueId(permalink)
             thumb=df.loc[i,"Thumb"]
             fullLink=df.loc[i,"fullLink"]
+
+            nameTextInput=""
+            locationTextInput=""
+            dateTextInput=""
+            for column in snameColumns:
+                if(df.loc[i,column]!="nan"):
+                    nameTextInput=nameTextInput+" | "+str(df.loc[i,column])
+            
+            for column in locationColumns:
+                if(df.loc[i,column]!="nan"):
+                    locationTextInput=locationTextInput+" | "+str(df.loc[i,column])
+            
+            for column in dateColumns:
+                if(df.loc[i,column]!="nan"):
+                    dateTextInput=dateTextInput+" | "+str(df.loc[i,column])
+
+            print("name text input is=",nameTextInput)
+
             if(type(fullLink)==str):
                 fullLink=ShortenFullLink(df.loc[i,"fullLink"])
-                
             locations=[]
             names=[]
             namesFromFlashtext=[]
@@ -114,31 +152,28 @@ def extractAll():
             month=""
             year=""
             sep=", "
-            if(type(inputText)==str):
-                locations=getLocations(locationTextInput)
-                namesFromFlashtext=getScientificNamesFlashtext(nameTextInput)
-                dates2=getDates(dateTextInput)
-                days=[]
-                months=[]
-                years=[]
+            locations=getLocations(locationTextInput)
+            namesFromFlashtext=getScientificNamesFlashtext(nameTextInput)
+            dates2=getDates(dateTextInput)
+            days=[]
+            months=[]
+            years=[]
+            if(dates2):
+                for dateObject in dates2:
+                    keys=dateObject.keys()
+                    if("year" in keys):
+                        years.append(str(dateObject["year"]))
+                    if("month" in keys):
+                        months.append(str(dateObject["month"]))
+                    if("day" in keys):
+                        days.append(str(dateObject["day"]))
                 
-                if(dates2):
-                    for dateObject in dates2:
-                        keys=dateObject.keys()
-                        if("year" in keys):
-                            years.append(str(dateObject["year"]))
-                        if("month" in keys):
-                            months.append(str(dateObject["month"]))
-                        if("day" in keys):
-                            days.append(str(dateObject["day"]))
-                    
-                    year=sep.join(years)
-                    month=sep.join(months)
-                    day=sep.join(days)
-                
+                year=sep.join(years)
+                month=sep.join(months)
+                day=sep.join(days)
+            
+            names=getScientificNamesGnfinder(nameTextInput)
 
-                names=getScientificNamesGnfinder(nameTextInput)
-                                
             row=[uniqueId,author,desc,commentsText,inputText,sep.join(locations),sep.join(names),sep.join(namesFromFlashtext),day,month,year,permalink,thumb,fullLink]
             with open(filename,'a') as csvfile1:
                 csvwriter1=csv.writer(csvfile1)
@@ -150,6 +185,7 @@ def extractAll():
             print(f"author = {author}")
             print(f"text={desc}")
             print(f"permalink = {permalink}")
+            print(f"fault text={nameTextInput}")
             
             errorRow=[author,desc,permalink]
             
@@ -158,6 +194,7 @@ def extractAll():
                 fcsvwriter.writerow(errorRow)
             
     end = time.time()
+    print("------EXTRACTION PROCESS ENDED---------------")
     print(f"Runtime of the program is {end - start}")
     return("post method")
 
