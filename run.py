@@ -4,7 +4,6 @@ if __name__ == '__main__':
     app.run(debug=True)  # run our Flask app
 
 
-
 #from flask import Flask,jsonify,render_template
 #from flask_restful import Resource, Api, reqparse,request
 # import ast
@@ -21,10 +20,7 @@ if __name__ == '__main__':
 # import traceback
 
 
-
-
-
-##global code which should execute only once when the microservice starts
+# global code which should execute only once when the microservice starts
 
 # from dateparser_data.settings import default_parsers
 # parsers = [parser for parser in default_parsers if parser != 'relative-time']
@@ -48,12 +44,12 @@ if __name__ == '__main__':
 
 # setOfWordstoExclude=set(wordsToExclude)
 # #print(setOfWordstoExclude)
-    
+
 
 # file1 = open("extended_placenames.txt","r")
 
 # Lines = file1.readlines()
-# setOfCities=set() 
+# setOfCities=set()
 # count = 0
 # # Strips the newline character
 # for line in Lines:
@@ -63,7 +59,7 @@ if __name__ == '__main__':
 #             keyword_processor.add_keyword(line.strip().lower())
 #     if(line.strip().lower()=="big"):
 #         print(line)
-            
+
 #         #cities.append(line.strip().lower())
 # cities=list(setOfCities)
 # print(len(cities))
@@ -114,13 +110,13 @@ if __name__ == '__main__':
 #                     dateFields={}
 
 #             if(dateFields):
-#                 finalDates.append(dateFields)                               
+#                 finalDates.append(dateFields)
 #         return finalDates
 
 # def extract_names(namesArray):
 #     if(not namesArray):
 #         return []
-        
+
 #     names=[]
 #     for nameObject in namesArray:
 #         names.append(nameObject['name'])
@@ -141,7 +137,6 @@ if __name__ == '__main__':
 #     return numbers[0]
 
 
-
 # app = Flask(__name__)
 # api = Api(app)
 
@@ -153,26 +148,23 @@ if __name__ == '__main__':
 #     return("pong")
 
 
-# @app.route('/')  
-# def upload():  
-#     return render_template("file_upload_form.html")  
- 
-# @app.route('/success', methods = ['POST'])  
-# def success():  
-#     if request.method == 'POST':  
+# @app.route('/')
+# def upload():
+#     return render_template("file_upload_form.html")
+
+# @app.route('/success', methods = ['POST'])
+# def success():
+#     if request.method == 'POST':
 #         f = request.files['file']
 #         print("name of the uploaded file = ",f.filename)
-#         print("\n")  
+#         print("\n")
 #         f.save(f.filename)
 #         print("\n")
 #         print("mimetype=",f.mimetype)
-#         return render_template("success.html", name = f.filename)  
+#         return render_template("success.html", name = f.filename)
 
 
-
-
-
-#@app.route("/extract",methods=["POST"])
+# @app.route("/extract",methods=["POST"])
 # def extractAll():
 #     inputFileName=request.args.get('inputFile')
 #     outputFilename="Second-cut-curation-sheet-1.csv" #get this also using query params
@@ -184,10 +176,10 @@ if __name__ == '__main__':
 #     faultyPermalinksFilename="Faulty_Permalinks.csv"
 #     faultyRow=["Author","Desc","Permalink"]
 
-#     with open(filename, 'a') as csvfile: 
-#         csvwriter = csv.writer(csvfile)         
+#     with open(filename, 'a') as csvfile:
+#         csvwriter = csv.writer(csvfile)
 #         csvwriter.writerow(fields)
-        
+
 #     with open(faultyPermalinksFilename,'a') as faultyCsvFile:
 #         fcsvwriter=csv.writer(faultyCsvFile)
 #         fcsvwriter.writerow(faultyRow)
@@ -207,7 +199,7 @@ if __name__ == '__main__':
 #             fullLink=df.loc[i,"fullLink"]
 #             if(type(fullLink)==str):
 #                 fullLink=ShortenFullLink(df.loc[i,"fullLink"])
-                
+
 #             locations=[]
 #             names=[]
 #             namesFromFlashtext=[]
@@ -223,7 +215,7 @@ if __name__ == '__main__':
 #                 days=[]
 #                 months=[]
 #                 years=[]
-                
+
 #                 if(dates2):
 #                     for dateObject in dates2:
 #                         keys=dateObject.keys()
@@ -233,37 +225,34 @@ if __name__ == '__main__':
 #                             months.append(str(dateObject["month"]))
 #                         if("day" in keys):
 #                             days.append(str(dateObject["day"]))
-                    
+
 #                     year=sep.join(years)
 #                     month=sep.join(months)
 #                     day=sep.join(days)
-                
+
 #                 query = {'text':inputText}
 #                 response = requests.get('http://localhost:3006/parse',params=query)
 #                 if(response.json()['names']):
 #                     names=extract_names(response.json()['names'])
-                
+
 #             row=[uniqueId,author,desc,commentsText,inputText,sep.join(locations),sep.join(names),sep.join(namesFromFlashtext),day,month,year,permalink,thumb,fullLink]
 #             with open(filename,'a') as csvfile1:
 #                 csvwriter1=csv.writer(csvfile1)
 #                 csvwriter1.writerow(row)
-        
+
 #         except Exception:
 #             traceback.print_exc()
 #             print(f"value of i = {i}")
 #             print(f"author = {author}")
 #             print(f"text={desc}")
 #             print(f"permalink = {permalink}")
-            
+
 #             errorRow=[author,desc,permalink]
-            
+
 #             with open(faultyPermalinksFilename,'a') as faultyCsvFile:
 #                 fcsvwriter=csv.writer(faultyCsvFile)
 #                 fcsvwriter.writerow(errorRow)
-            
+
 #     end = time.time()
 #     print(f"Runtime of the program is {end - start}")
 #     return("post method")
-
-
-
