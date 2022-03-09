@@ -1,6 +1,8 @@
 from crypt import methods
 import dataclasses
 import time
+
+from sqlalchemy import false, true
 from app import app
 from flask import render_template
 from flask_restful import Resource, Api, reqparse, request
@@ -10,9 +12,10 @@ from dateparser import parse
 import traceback
 import csv
 from utils import getScientificNamesGnfinder, getScientificNamesFlashtext, ShortenPermalink, GetUniqueId, ShortenFullLink, getDates, extract_names, getLocations
-from dbClasses import ExternalDatasets
+from dbClasses import ExternalDatasets, ExternalDatasetsMetadata
 from app import db
 import json
+from flask import jsonify
 
 
 @app.route("/ping")
@@ -80,6 +83,19 @@ def test():
     return columnsSelected
 
 
+@app.route("/show/<uploaderId>/<datasetId>", methods=["GET"])
+def showPage(uploaderId, datasetId):
+    ans = ExternalDatasets.query.filter_by(
+        uploader=str(uploaderId), datasetId=str(datasetId)).all()
+
+    l = []
+    for row in ans:
+        l.append(row.as_dict())
+
+    print(type(ans[0].as_dict()))
+    return (jsonify(l))
+
+
 @app.route("/extract", methods=["POST"])
 def extractAll():
     # nameTextInput=request.args.get("nameTextField")
@@ -87,10 +103,29 @@ def extractAll():
     # dateTextInput=request.args.get("dateTextField")
 
     formData = request.form.to_dict(flat=False)
+
+    print("formdata recieved is = ", formData)
+
     snameColumns = formData['sname'][0].split(",")
     locationColumns = formData['location'][0].split(",")
     dateColumns = formData['date'][0].split(",")
     inputFileName = formData['path'][0]
+    title = formData['title'][0]
+    datasetDescription = formData['datasetDescription'][0]
+    uploaderId = formData['userId'][0]
+    contributorIds = formData['contributorsIds'][0].split(",")
+
+    sep = ", "
+
+    print("contribuitors are = ", contributorIds)
+
+    metdataEntry = ExternalDatasetsMetadata(
+        title=title, description=datasetDescription, contributors=sep.join(contributorIds))
+    db.session.add(metdataEntry)
+    db.session.commit()
+
+    print("title=", title)
+    print("dataset desc=", datasetDescription)
 
     # inputFileName="/home/prakhar/myUploads/uploaded.csv"
     # outputFilename="Second-cut-curation-sheet-1.csv" #get this also using query params
@@ -172,7 +207,7 @@ def extractAll():
             day = ""
             month = ""
             year = ""
-            sep = ", "
+
             locations = getLocations(locationTextInput)
             namesFromFlashtext = getScientificNamesFlashtext(nameTextInput)
             dates2 = getDates(dateTextInput)
@@ -206,7 +241,8 @@ def extractAll():
                                        year=year, checklistAnnotations=str(
                 checklistAnnotations),
                 snamesInputs=str(snamesInputs), locationsInputs=str(locationsInputs),
-                datesInputs=str(datesInputs))
+                datesInputs=str(datesInputs), uploader=uploaderId,
+                isValid=True, curatedSNames="", curatedLocations="", curatedDates="", datasetId=metdataEntry.id)
 
             db.session.add(dbEntry)
             db.session.commit()
