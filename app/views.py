@@ -83,6 +83,21 @@ def test():
     return columnsSelected
 
 
+@app.route("/update/<datasetId>", methods=["PUT"])
+def updatedataSet(datasetId):
+    x = json.loads(request.data.decode('utf-8'))
+    oldObject = ExternalDatasets.query.filter_by(uniqueId=x["uniqueId"]).all()
+    print(oldObject)
+    oldObject[0].locations = x["locations"]
+    oldObject[0].day = x["day"]
+    oldObject[0].month = x["month"]
+
+    db.session.add(oldObject[0])
+    db.session.commit()
+    print(x)
+    return("hello world")
+
+
 @app.route("/show/<uploaderId>/<datasetId>", methods=["GET"])
 def showPage(uploaderId, datasetId):
     ans = ExternalDatasets.query.filter_by(
@@ -90,9 +105,29 @@ def showPage(uploaderId, datasetId):
 
     l = []
     for row in ans:
-        l.append(row.as_dict())
+        rowDataAllColumns = row.as_dict()
+        rowData = {}
+        rowData["uniqueId"] = rowDataAllColumns["uniqueId"]
+        rowData["locations"] = rowDataAllColumns["locations"]
+        rowData["day"] = rowDataAllColumns["day"]
+        rowData["month"] = rowDataAllColumns["month"]
 
-    print(type(ans[0].as_dict()))
+        #rowData["locations"] = rowDataAllColumns["locations"]
+        #rowData["scientificNamesGNRD"] = rowDataAllColumns["scientificNamesGNRD"]
+        #rowData["scientificNamesFlashtext"] = rowDataAllColumns["scientificNamesFlashtext"]
+        #rowData["day"] = rowDataAllColumns["day"]
+        #rowData["month"] = rowDataAllColumns["month"]
+        #rowData["year"] = rowDataAllColumns["year"]
+
+        #rowData["isValid"] = rowDataAllColumns["isValid"]
+        #rowData["curatedSNames"] = rowDataAllColumns["curatedSNames"]
+        #rowData["curatedLocations"] = rowDataAllColumns["curatedLocations"]
+        #rowData["curatedDates"] = rowDataAllColumns["curatedDates"]
+
+        #rowData["uploader"] = rowDataAllColumns["uploader"]
+
+        l.append(rowData)
+
     return (jsonify(l))
 
 
